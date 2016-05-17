@@ -1,0 +1,7412 @@
+fileFormatVersion: 2
+guid: 9b6264b03085f3941928fadf10b01103
+timeCreated: 1463165362
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shanoa_0
+    21300002: shanoa_1
+    21300004: shanoa_2
+    21300006: shanoa_3
+    21300008: shanoa_4
+    21300010: shanoa_5
+    21300012: shanoa_6
+    21300014: shanoa_7
+    21300016: shanoa_8
+    21300018: shanoa_9
+    21300020: shanoa_10
+    21300022: shanoa_11
+    21300024: shanoa_12
+    21300026: shanoa_13
+    21300028: shanoa_14
+    21300030: shanoa_15
+    21300032: shanoa_16
+    21300034: shanoa_17
+    21300036: shanoa_18
+    21300038: shanoa_19
+    21300040: shanoa_20
+    21300042: shanoa_21
+    21300044: shanoa_22
+    21300046: shanoa_23
+    21300048: shanoa_24
+    21300050: shanoa_25
+    21300052: shanoa_26
+    21300054: shanoa_27
+    21300056: shanoa_28
+    21300058: shanoa_29
+    21300060: shanoa_30
+    21300062: shanoa_31
+    21300064: shanoa_32
+    21300066: shanoa_33
+    21300068: shanoa_34
+    21300070: shanoa_35
+    21300072: shanoa_36
+    21300074: shanoa_37
+    21300076: shanoa_38
+    21300078: shanoa_39
+    21300080: shanoa_40
+    21300082: shanoa_41
+    21300084: shanoa_42
+    21300086: shanoa_43
+    21300088: shanoa_44
+    21300090: shanoa_45
+    21300092: shanoa_46
+    21300094: shanoa_47
+    21300096: shanoa_48
+    21300098: shanoa_49
+    21300100: shanoa_50
+    21300102: shanoa_51
+    21300104: shanoa_52
+    21300106: shanoa_53
+    21300108: shanoa_54
+    21300110: shanoa_55
+    21300112: shanoa_56
+    21300114: shanoa_57
+    21300116: shanoa_58
+    21300118: shanoa_59
+    21300120: shanoa_60
+    21300122: shanoa_61
+    21300124: shanoa_62
+    21300126: shanoa_63
+    21300128: shanoa_64
+    21300130: shanoa_65
+    21300132: shanoa_66
+    21300134: shanoa_67
+    21300136: shanoa_68
+    21300138: shanoa_69
+    21300140: shanoa_70
+    21300142: shanoa_71
+    21300144: shanoa_72
+    21300146: shanoa_73
+    21300148: shanoa_74
+    21300150: shanoa_75
+    21300152: shanoa_76
+    21300154: shanoa_77
+    21300156: shanoa_78
+    21300158: shanoa_79
+    21300160: shanoa_80
+    21300162: shanoa_81
+    21300164: shanoa_82
+    21300166: shanoa_83
+    21300168: shanoa_84
+    21300170: shanoa_85
+    21300172: shanoa_86
+    21300174: shanoa_87
+    21300176: shanoa_88
+    21300178: shanoa_89
+    21300180: shanoa_90
+    21300182: shanoa_91
+    21300184: shanoa_92
+    21300186: shanoa_93
+    21300188: shanoa_94
+    21300190: shanoa_95
+    21300192: shanoa_96
+    21300194: shanoa_97
+    21300196: shanoa_98
+    21300198: shanoa_99
+    21300200: shanoa_100
+    21300202: shanoa_101
+    21300204: shanoa_102
+    21300206: shanoa_103
+    21300208: shanoa_104
+    21300210: shanoa_105
+    21300212: shanoa_106
+    21300214: shanoa_107
+    21300216: shanoa_108
+    21300218: shanoa_109
+    21300220: shanoa_110
+    21300222: shanoa_111
+    21300224: shanoa_112
+    21300226: shanoa_113
+    21300228: shanoa_114
+    21300230: shanoa_115
+    21300232: shanoa_116
+    21300234: shanoa_117
+    21300236: shanoa_118
+    21300238: shanoa_119
+    21300240: shanoa_120
+    21300242: shanoa_121
+    21300244: shanoa_122
+    21300246: shanoa_123
+    21300248: shanoa_124
+    21300250: shanoa_125
+    21300252: shanoa_126
+    21300254: shanoa_127
+    21300256: shanoa_128
+    21300258: shanoa_129
+    21300260: shanoa_130
+    21300262: shanoa_131
+    21300264: shanoa_132
+    21300266: shanoa_133
+    21300268: shanoa_134
+    21300270: shanoa_135
+    21300272: shanoa_136
+    21300274: shanoa_137
+    21300276: shanoa_138
+    21300278: shanoa_139
+    21300280: shanoa_140
+    21300282: shanoa_141
+    21300284: shanoa_142
+    21300286: shanoa_143
+    21300288: shanoa_144
+    21300290: shanoa_145
+    21300292: shanoa_146
+    21300294: shanoa_147
+    21300296: shanoa_148
+    21300298: shanoa_149
+    21300300: shanoa_150
+    21300302: shanoa_151
+    21300304: shanoa_152
+    21300306: shanoa_153
+    21300308: shanoa_154
+    21300310: shanoa_155
+    21300312: shanoa_156
+    21300314: shanoa_157
+    21300316: shanoa_158
+    21300318: shanoa_159
+    21300320: shanoa_160
+    21300322: shanoa_161
+    21300324: shanoa_162
+    21300326: shanoa_163
+    21300328: shanoa_164
+    21300330: shanoa_165
+    21300332: shanoa_166
+    21300334: shanoa_167
+    21300336: shanoa_168
+    21300338: shanoa_169
+    21300340: shanoa_170
+    21300342: shanoa_171
+    21300344: shanoa_172
+    21300346: shanoa_173
+    21300348: shanoa_174
+    21300350: shanoa_175
+    21300352: shanoa_176
+    21300354: shanoa_177
+    21300356: shanoa_178
+    21300358: shanoa_179
+    21300360: shanoa_180
+    21300362: shanoa_181
+    21300364: shanoa_182
+    21300366: shanoa_183
+    21300368: shanoa_184
+    21300370: shanoa_185
+    21300372: shanoa_186
+    21300374: shanoa_187
+    21300376: shanoa_188
+    21300378: shanoa_189
+    21300380: shanoa_190
+    21300382: shanoa_191
+    21300384: shanoa_192
+    21300386: shanoa_193
+    21300388: shanoa_194
+    21300390: shanoa_195
+    21300392: shanoa_196
+    21300394: shanoa_197
+    21300396: shanoa_198
+    21300398: shanoa_199
+    21300400: shanoa_200
+    21300402: shanoa_201
+    21300404: shanoa_202
+    21300406: shanoa_203
+    21300408: shanoa_204
+    21300410: shanoa_205
+    21300412: shanoa_206
+    21300414: shanoa_207
+    21300416: shanoa_208
+    21300418: shanoa_209
+    21300420: shanoa_210
+    21300422: shanoa_211
+    21300424: shanoa_212
+    21300426: shanoa_213
+    21300428: shanoa_214
+    21300430: shanoa_215
+    21300432: shanoa_216
+    21300434: shanoa_217
+    21300436: shanoa_218
+    21300438: shanoa_219
+    21300440: shanoa_220
+    21300442: shanoa_221
+    21300444: shanoa_222
+    21300446: shanoa_223
+    21300448: shanoa_224
+    21300450: shanoa_225
+    21300452: shanoa_226
+    21300454: shanoa_227
+    21300456: shanoa_228
+    21300458: shanoa_229
+    21300460: shanoa_230
+    21300462: shanoa_231
+    21300464: shanoa_232
+    21300466: shanoa_233
+    21300468: shanoa_234
+    21300470: shanoa_235
+    21300472: shanoa_236
+    21300474: shanoa_237
+    21300476: shanoa_238
+    21300478: shanoa_239
+    21300480: shanoa_240
+    21300482: shanoa_241
+    21300484: shanoa_242
+    21300486: shanoa_243
+    21300488: shanoa_244
+    21300490: shanoa_245
+    21300492: shanoa_246
+    21300494: shanoa_247
+    21300496: shanoa_248
+    21300498: shanoa_249
+    21300500: shanoa_250
+    21300502: shanoa_251
+    21300504: shanoa_252
+    21300506: shanoa_253
+    21300508: shanoa_254
+    21300510: shanoa_255
+    21300512: shanoa_256
+    21300514: shanoa_257
+    21300516: shanoa_258
+    21300518: shanoa_259
+    21300520: shanoa_260
+    21300522: shanoa_261
+    21300524: shanoa_262
+    21300526: shanoa_263
+    21300528: shanoa_264
+    21300530: shanoa_265
+    21300532: shanoa_266
+    21300534: shanoa_267
+    21300536: shanoa_268
+    21300538: shanoa_269
+    21300540: shanoa_270
+    21300542: shanoa_271
+    21300544: shanoa_272
+    21300546: shanoa_273
+    21300548: shanoa_274
+    21300550: shanoa_275
+    21300552: shanoa_276
+    21300554: shanoa_277
+    21300556: shanoa_278
+    21300558: shanoa_279
+    21300560: shanoa_280
+    21300562: shanoa_281
+    21300564: shanoa_282
+    21300566: shanoa_283
+    21300568: shanoa_284
+    21300570: shanoa_285
+    21300572: shanoa_286
+    21300574: shanoa_287
+    21300576: shanoa_288
+    21300578: shanoa_289
+    21300580: shanoa_290
+    21300582: shanoa_291
+    21300584: shanoa_292
+    21300586: shanoa_293
+    21300588: shanoa_294
+    21300590: shanoa_295
+    21300592: shanoa_296
+    21300594: shanoa_297
+    21300596: shanoa_298
+    21300598: shanoa_299
+    21300600: shanoa_300
+    21300602: shanoa_301
+    21300604: shanoa_302
+    21300606: shanoa_303
+    21300608: shanoa_304
+    21300610: shanoa_305
+    21300612: shanoa_306
+    21300614: shanoa_307
+    21300616: shanoa_308
+    21300618: shanoa_309
+    21300620: shanoa_310
+    21300622: shanoa_311
+    21300624: shanoa_312
+    21300626: shanoa_313
+    21300628: shanoa_314
+    21300630: shanoa_315
+    21300632: shanoa_316
+    21300634: shanoa_317
+    21300636: shanoa_318
+    21300638: shanoa_319
+    21300640: shanoa_320
+    21300642: shanoa_321
+    21300644: shanoa_322
+    21300646: shanoa_323
+    21300648: shanoa_324
+    21300650: shanoa_325
+    21300652: shanoa_326
+    21300654: shanoa_327
+    21300656: shanoa_328
+    21300658: shanoa_329
+    21300660: shanoa_330
+    21300662: shanoa_331
+    21300664: shanoa_332
+    21300666: shanoa_333
+    21300668: shanoa_334
+    21300670: shanoa_335
+    21300672: shanoa_336
+    21300674: shanoa_337
+    21300676: shanoa_338
+    21300678: shanoa_339
+    21300680: shanoa_340
+    21300682: shanoa_341
+    21300684: shanoa_342
+    21300686: shanoa_343
+    21300688: shanoa_344
+    21300690: shanoa_345
+    21300692: shanoa_346
+    21300694: shanoa_347
+    21300696: shanoa_348
+    21300698: shanoa_349
+    21300700: shanoa_350
+    21300702: shanoa_351
+    21300704: shanoa_352
+    21300706: shanoa_353
+    21300708: shanoa_354
+    21300710: shanoa_355
+    21300712: shanoa_356
+    21300714: shanoa_357
+    21300716: shanoa_358
+    21300718: shanoa_359
+    21300720: shanoa_360
+    21300722: shanoa_361
+    21300724: shanoa_362
+    21300726: shanoa_363
+    21300728: shanoa_364
+    21300730: shanoa_365
+    21300732: shanoa_366
+    21300734: shanoa_367
+    21300736: shanoa_368
+    21300738: shanoa_369
+    21300740: shanoa_370
+    21300742: shanoa_371
+    21300744: shanoa_372
+    21300746: shanoa_373
+    21300748: shanoa_374
+    21300750: shanoa_375
+    21300752: shanoa_376
+    21300754: shanoa_377
+    21300756: shanoa_378
+    21300758: shanoa_379
+    21300760: shanoa_380
+    21300762: shanoa_381
+    21300764: shanoa_382
+    21300766: shanoa_383
+    21300768: shanoa_384
+    21300770: shanoa_385
+    21300772: shanoa_386
+    21300774: shanoa_387
+    21300776: shanoa_388
+    21300778: shanoa_389
+    21300780: shanoa_390
+    21300782: shanoa_391
+    21300784: shanoa_392
+    21300786: shanoa_393
+    21300788: shanoa_394
+    21300790: shanoa_395
+    21300792: shanoa_396
+    21300794: shanoa_397
+    21300796: shanoa_398
+    21300798: shanoa_399
+    21300800: shanoa_400
+    21300802: shanoa_401
+    21300804: shanoa_402
+    21300806: shanoa_403
+    21300808: shanoa_404
+    21300810: shanoa_405
+    21300812: shanoa_406
+    21300814: shanoa_407
+    21300816: shanoa_408
+    21300818: shanoa_409
+    21300820: shanoa_410
+    21300822: shanoa_411
+    21300824: shanoa_412
+    21300826: shanoa_413
+    21300828: shanoa_414
+    21300830: shanoa_415
+    21300832: shanoa_416
+    21300834: shanoa_417
+    21300836: shanoa_418
+    21300838: shanoa_419
+    21300840: shanoa_420
+    21300842: shanoa_421
+    21300844: shanoa_422
+    21300846: shanoa_423
+    21300848: shanoa_424
+    21300850: shanoa_425
+    21300852: shanoa_426
+    21300854: shanoa_427
+    21300856: shanoa_428
+    21300858: shanoa_429
+    21300860: shanoa_430
+    21300862: shanoa_431
+    21300864: shanoa_432
+    21300866: shanoa_433
+    21300868: shanoa_434
+    21300870: shanoa_435
+    21300872: shanoa_436
+    21300874: shanoa_437
+    21300876: shanoa_438
+    21300878: shanoa_439
+    21300880: shanoa_440
+    21300882: shanoa_441
+    21300884: shanoa_442
+    21300886: shanoa_443
+    21300888: shanoa_444
+    21300890: shanoa_445
+    21300892: shanoa_446
+    21300894: shanoa_447
+    21300896: shanoa_448
+    21300898: shanoa_449
+    21300900: shanoa_450
+    21300902: shanoa_451
+    21300904: shanoa_452
+    21300906: shanoa_453
+    21300908: shanoa_454
+    21300910: shanoa_455
+    21300912: shanoa_456
+    21300914: shanoa_457
+    21300916: shanoa_458
+    21300918: shanoa_459
+    21300920: shanoa_460
+    21300922: shanoa_461
+    21300924: shanoa_462
+    21300926: shanoa_463
+    21300928: shanoa_464
+    21300930: shanoa_465
+    21300932: shanoa_466
+    21300934: shanoa_467
+    21300936: shanoa_468
+    21300938: shanoa_469
+    21300940: shanoa_470
+    21300942: shanoa_471
+    21300944: shanoa_472
+    21300946: shanoa_473
+    21300948: shanoa_474
+    21300950: shanoa_475
+    21300952: shanoa_476
+    21300954: shanoa_477
+    21300956: shanoa_478
+    21300958: shanoa_479
+    21300960: shanoa_480
+    21300962: shanoa_481
+    21300964: shanoa_482
+    21300966: shanoa_483
+    21300968: shanoa_484
+    21300970: shanoa_485
+    21300972: shanoa_486
+    21300974: shanoa_487
+    21300976: shanoa_488
+    21300978: shanoa_489
+    21300980: shanoa_490
+    21300982: shanoa_491
+    21300984: shanoa_492
+    21300986: shanoa_493
+    21300988: shanoa_494
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: shanoa_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1600
+        width: 22
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1600
+        width: 22
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_12
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_15
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_16
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_17
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_18
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_19
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_20
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1600
+        width: 25
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_21
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1600
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_22
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1600
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 42}
+        - {x: -16.5, y: 37}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 38}
+        - {x: 11.5, y: 42}
+    - name: shanoa_23
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1600
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 42}
+        - {x: -12.5, y: 42}
+        - {x: -16.5, y: 38}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 23}
+        - {x: 14.5, y: 41}
+    - name: shanoa_24
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1600
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 25}
+        - {x: 13.5, y: 39}
+        - {x: 5.5, y: 42}
+        - {x: -11.5, y: 42}
+        - {x: -16.5, y: 34}
+    - name: shanoa_25
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1600
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 42}
+        - {x: -16.5, y: 33}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 23}
+        - {x: 13.5, y: 38}
+        - {x: 4.5, y: 42}
+    - name: shanoa_26
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1600
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 25}
+        - {x: 13.5, y: 39}
+        - {x: 5.5, y: 42}
+        - {x: -11.5, y: 42}
+        - {x: -16.5, y: 34}
+    - name: shanoa_27
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1600
+        width: 25
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_28
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1600
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1552
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 46}
+        - {x: -16.5, y: 1}
+        - {x: -15.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 24}
+        - {x: 4.5, y: 46}
+    - name: shanoa_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1552
+        width: 30
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1552
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1552
+        width: 29
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1552
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_34
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1552
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_35
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1552
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1552
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1552
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1552
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_39
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1552
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_40
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1552
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_41
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1552
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_42
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1552
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_43
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1552
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 0}
+        - {x: 17, y: 45}
+        - {x: -17, y: 45}
+        - {x: -17, y: 0}
+    - name: shanoa_44
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1552
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 45}
+        - {x: -17, y: 43}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 43}
+        - {x: 8, y: 45}
+    - name: shanoa_45
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1552
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 43}
+        - {x: -16.5, y: 39}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 41}
+        - {x: 15.5, y: 43}
+    - name: shanoa_46
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1552
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 42}
+        - {x: -16.5, y: 37}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 38}
+        - {x: 11.5, y: 42}
+    - name: shanoa_47
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1552
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_48
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1552
+        width: 25
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_49
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1552
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1504
+        width: 23
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_51
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1504
+        width: 21
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1504
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_53
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1504
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_54
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1504
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_55
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1512
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 35}
+        - {x: -17, y: 35}
+        - {x: -17, y: 24}
+        - {x: -11, y: 20}
+        - {x: -17, y: 15}
+        - {x: -17, y: 5}
+        - {x: -13, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 10}
+        - {x: 6, y: 30}
+    - name: shanoa_56
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1512
+        width: 36
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 34}
+        - {x: -18, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 7}
+        - {x: 12, y: 27}
+        - {x: -1, y: 34}
+    - name: shanoa_57
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1512
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_58
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1512
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_59
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1512
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_60
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1512
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_61
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1512
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_62
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1512
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_63
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1512
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_64
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1512
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_65
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1512
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_66
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1512
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_67
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1456
+        width: 19
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_68
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1456
+        width: 19
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1456
+        width: 19
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_70
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1456
+        width: 25
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_71
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1456
+        width: 28
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_72
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1456
+        width: 28
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_73
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1456
+        width: 30
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_74
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1456
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_75
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1456
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_76
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1456
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_77
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1456
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_78
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1465
+        width: 26
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_79
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1464
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 43}
+        - {x: -7, y: 43}
+        - {x: -18, y: 30}
+        - {x: -18, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 41}
+    - name: shanoa_80
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1464
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 43}
+        - {x: -16.5, y: 39}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 41}
+        - {x: 15.5, y: 43}
+    - name: shanoa_81
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1464
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 42}
+        - {x: -16.5, y: 37}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 38}
+        - {x: 11.5, y: 42}
+    - name: shanoa_82
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1464
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_83
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1464
+        width: 25
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_84
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1464
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1408
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_86
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1408
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 43}
+        - {x: -16.5, y: 39}
+        - {x: -16.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 13.5, y: 5}
+        - {x: 16.5, y: 16}
+        - {x: 16.5, y: 43}
+    - name: shanoa_87
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1408
+        width: 35
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 42}
+        - {x: -14.5, y: 40}
+        - {x: -17.5, y: 28}
+        - {x: -17.5, y: 6}
+        - {x: -16.5, y: 0}
+        - {x: -0.5, y: 0}
+        - {x: 17.5, y: 10}
+        - {x: 17.5, y: 42}
+    - name: shanoa_88
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1408
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 42}
+        - {x: -17, y: 35}
+        - {x: -17, y: 0}
+        - {x: 9, y: 0}
+        - {x: 17, y: 14}
+        - {x: 17, y: 42}
+    - name: shanoa_89
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1408
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 42}
+        - {x: -17, y: 34}
+        - {x: -17, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 16}
+        - {x: 17, y: 42}
+    - name: shanoa_90
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1408
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 42}
+        - {x: -17, y: 0}
+        - {x: 9, y: 0}
+        - {x: 17, y: 10}
+        - {x: 17, y: 42}
+    - name: shanoa_91
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1408
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_92
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1408
+        width: 29
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_93
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1408
+        width: 28
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_94
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1408
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_95
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1408
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_96
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1408
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_97
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1401
+        width: 28
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_98
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1401
+        width: 29
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_99
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1401
+        width: 24
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_100
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1402
+        width: 24
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_101
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1401
+        width: 26
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_102
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1402
+        width: 24
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_103
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1406
+        width: 23
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_104
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1407
+        width: 23
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_105
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1407
+        width: 22
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_106
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1406
+        width: 22
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_107
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1360
+        width: 30
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_108
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1360
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 42}
+        - {x: -16, y: 0}
+        - {x: -6, y: 0}
+        - {x: 16, y: 6}
+        - {x: 16, y: 42}
+    - name: shanoa_109
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1360
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 42}
+        - {x: -16, y: 0}
+        - {x: -6, y: 0}
+        - {x: 12, y: 11}
+        - {x: 16, y: 18}
+        - {x: 16, y: 42}
+    - name: shanoa_110
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1360
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 42}
+        - {x: -16, y: 0}
+        - {x: -5, y: 0}
+        - {x: 10, y: 7}
+        - {x: 16, y: 18}
+        - {x: 16, y: 42}
+    - name: shanoa_111
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1360
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 42}
+        - {x: -16, y: 33}
+        - {x: -16, y: 0}
+        - {x: 5, y: 0}
+        - {x: 16, y: 17}
+        - {x: 16, y: 42}
+    - name: shanoa_112
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1360
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 42}
+        - {x: -15, y: 35}
+        - {x: -16, y: 32}
+        - {x: -16, y: 0}
+        - {x: 6, y: 0}
+        - {x: 16, y: 14}
+        - {x: 16, y: 42}
+    - name: shanoa_113
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1360
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 42}
+        - {x: -15, y: 35}
+        - {x: -16, y: 32}
+        - {x: -16, y: 0}
+        - {x: 14, y: 0}
+        - {x: 16, y: 8}
+        - {x: 16, y: 42}
+    - name: shanoa_114
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1360
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_115
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1360
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_116
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1360
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_117
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1360
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_118
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1353
+        width: 27
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_119
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1353
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_120
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1353
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_121
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1353
+        width: 26
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_122
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1355
+        width: 27
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_123
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1357
+        width: 25
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_124
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1355
+        width: 27
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1312
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 42}
+        - {x: -11.5, y: 39}
+        - {x: -16.5, y: 27}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 33}
+        - {x: 8.5, y: 42}
+    - name: shanoa_126
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1312
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 43}
+        - {x: -16.5, y: 30}
+        - {x: -10.5, y: 27}
+        - {x: -5.5, y: 26}
+        - {x: -2.5, y: 26}
+        - {x: -16.5, y: 26}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 32}
+        - {x: 9.5, y: 43}
+    - name: shanoa_127
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1312
+        width: 33
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 45}
+        - {x: -13.5, y: 40}
+        - {x: -14.5, y: 36}
+        - {x: -8.5, y: 25}
+        - {x: -6.5, y: 24}
+        - {x: -4.5, y: 24}
+        - {x: -12.5, y: 23}
+        - {x: -16.5, y: 19}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 41}
+        - {x: 9.5, y: 45}
+    - name: shanoa_128
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1312
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 45}
+        - {x: -9, y: 45}
+        - {x: -17, y: 42}
+        - {x: -17, y: 39}
+        - {x: -9, y: 25}
+        - {x: -7, y: 24}
+        - {x: -5, y: 24}
+        - {x: -13, y: 23}
+        - {x: -17, y: 17}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 40}
+        - {x: 15, y: 43}
+    - name: shanoa_129
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1312
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 45}
+        - {x: -17, y: 42}
+        - {x: -17, y: 40}
+        - {x: -9, y: 25}
+        - {x: -7, y: 24}
+        - {x: -5, y: 24}
+        - {x: -13, y: 23}
+        - {x: -17, y: 18}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 39}
+        - {x: 12, y: 45}
+    - name: shanoa_130
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1312
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 45}
+        - {x: -17, y: 41}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 41}
+        - {x: 13, y: 45}
+    - name: shanoa_131
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1312
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 44}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 44}
+    - name: shanoa_132
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1312
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_133
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1312
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_134
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1312
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_135
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1297
+        width: 26
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_136
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1296
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_137
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1296
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_138
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1296
+        width: 28
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_139
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1296
+        width: 26
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_140
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1296
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_141
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1296
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_142
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1296
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_143
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1296
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_144
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1296
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_145
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1296
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_146
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1296
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_147
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1264
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 42}
+        - {x: -12.5, y: 42}
+        - {x: -16.5, y: 38}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 23}
+        - {x: 14.5, y: 41}
+    - name: shanoa_148
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1264
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 43}
+        - {x: -16.5, y: 39}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 41}
+        - {x: 15.5, y: 43}
+    - name: shanoa_149
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1264
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 42}
+        - {x: -16.5, y: 37}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 38}
+        - {x: 11.5, y: 42}
+    - name: shanoa_150
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1264
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_151
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1264
+        width: 25
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_152
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1264
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_153
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1240
+        width: 51
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 39}
+        - {x: 13.5, y: 37}
+        - {x: 15.5, y: 35}
+        - {x: 17.5, y: 35}
+        - {x: 8.5, y: 28}
+        - {x: 12.5, y: 39}
+        - {x: 13.5, y: 45}
+        - {x: 2.5, y: 54}
+        - {x: -11.5, y: 54}
+        - {x: -20.5, y: 47}
+        - {x: -25.5, y: 35}
+        - {x: -25.5, y: 0}
+        - {x: 25.5, y: 0}
+        - {x: 25.5, y: 53}
+        - {x: 22.5, y: 52}
+    - name: shanoa_154
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1256
+        width: 33
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 37}
+        - {x: -16.5, y: 33}
+        - {x: -16.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 16.5, y: 15}
+        - {x: 16.5, y: 35}
+        - {x: 14.5, y: 37}
+    - name: shanoa_155
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1256
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 37}
+        - {x: -17, y: 30}
+        - {x: -17, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 3}
+        - {x: 17, y: 36}
+        - {x: 13, y: 37}
+    - name: shanoa_156
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1256
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 38}
+        - {x: -3, y: 38}
+        - {x: -16, y: 31}
+        - {x: -18, y: 29}
+        - {x: -18, y: 0}
+        - {x: 11, y: 0}
+        - {x: 18, y: 6}
+        - {x: 18, y: 35}
+        - {x: 15, y: 37}
+    - name: shanoa_157
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1256
+        width: 38
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 35}
+        - {x: -7, y: 26}
+        - {x: -6, y: 18}
+        - {x: -2, y: 16}
+        - {x: 3, y: 16}
+        - {x: -16, y: 15}
+        - {x: -19, y: 14}
+        - {x: -19, y: 0}
+        - {x: 19, y: 0}
+        - {x: 19, y: 26}
+        - {x: 12, y: 35}
+    - name: shanoa_158
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1256
+        width: 48
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_159
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1256
+        width: 50
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_160
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1213
+        width: 25
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_161
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1214
+        width: 26
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_162
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1214
+        width: 26
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_163
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1214
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_164
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1214
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_165
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1214
+        width: 27
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_166
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1214
+        width: 28
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_167
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1214
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_168
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1214
+        width: 28
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_169
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1214
+        width: 28
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_170
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1240
+        width: 51
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_171
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1240
+        width: 52
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_172
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1240
+        width: 53
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_173
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1208
+        width: 23
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_174
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1208
+        width: 21
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_175
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1208
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_176
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1208
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_177
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1208
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_178
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1208
+        width: 53
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_179
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1208
+        width: 52
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_180
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1208
+        width: 45
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_181
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1208
+        width: 40
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_182
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1208
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_183
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1208
+        width: 26
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_184
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1142
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_185
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1144
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_186
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1147
+        width: 27
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_187
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1146
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_188
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1145
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_189
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1145
+        width: 27
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_190
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1145
+        width: 28
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_191
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1145
+        width: 27
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_192
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1145
+        width: 25
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_193
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1142
+        width: 31
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_194
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1142
+        width: 32
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 63}
+        - {x: -16, y: 53}
+        - {x: -16, y: 27}
+        - {x: -3, y: 0}
+        - {x: 10, y: 0}
+        - {x: 16, y: 20}
+        - {x: 16, y: 52}
+        - {x: 12, y: 63}
+    - name: shanoa_195
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1141
+        width: 39
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 53}
+        - {x: -19.5, y: 21}
+        - {x: -12.5, y: 15}
+        - {x: 8.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 37}
+        - {x: 3.5, y: 53}
+    - name: shanoa_196
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1141
+        width: 39
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 53}
+        - {x: -19.5, y: 53}
+        - {x: -19.5, y: 19}
+        - {x: -12.5, y: 16}
+        - {x: 11.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 17}
+        - {x: 16.5, y: 32}
+    - name: shanoa_197
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1091
+        width: 27
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_198
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1100
+        width: 38
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_199
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1101
+        width: 41
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_200
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1095
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_201
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1098
+        width: 27
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_202
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1100
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 0}
+        - {x: 9, y: 0}
+        - {x: 19, y: 11}
+        - {x: 19, y: 32}
+        - {x: -19, y: 32}
+    - name: shanoa_203
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1105
+        width: 41
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_204
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1095
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 33}
+        - {x: 8.5, y: 35}
+        - {x: -14.5, y: 35}
+        - {x: -18.5, y: 32}
+        - {x: -18.5, y: 13}
+        - {x: -5.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 15.5, y: 1}
+        - {x: 18.5, y: 8}
+        - {x: 18.5, y: 27}
+    - name: shanoa_205
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1095
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 35}
+        - {x: -17.5, y: 35}
+        - {x: -18.5, y: 33}
+        - {x: -18.5, y: 18}
+        - {x: -3.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 18.5, y: 4}
+        - {x: 18.5, y: 30}
+    - name: shanoa_206
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1095
+        width: 36
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 35}
+        - {x: -16, y: 35}
+        - {x: -18, y: 34}
+        - {x: -18, y: 16}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 18, y: 5}
+        - {x: 18, y: 23}
+        - {x: 16, y: 33}
+    - name: shanoa_207
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1096
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 35}
+        - {x: -12, y: 35}
+        - {x: -17, y: 30}
+        - {x: -17, y: 20}
+        - {x: -12, y: 16}
+        - {x: -8, y: 17}
+        - {x: -7, y: 18}
+        - {x: -4, y: 18}
+        - {x: -6, y: 18}
+        - {x: -10, y: 13}
+        - {x: -10, y: 12}
+        - {x: -7, y: 9}
+        - {x: -6, y: 9}
+        - {x: -3, y: 1}
+        - {x: -2, y: 0}
+        - {x: 5, y: 0}
+        - {x: 17, y: 6}
+        - {x: 17, y: 21}
+        - {x: 14, y: 30}
+    - name: shanoa_208
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1096
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -8, y: 0}
+        - {x: 13, y: 0}
+        - {x: 16, y: 1}
+        - {x: 16, y: 35}
+        - {x: -11, y: 35}
+        - {x: -16, y: 32}
+    - name: shanoa_209
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1095
+        width: 28
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_210
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1093
+        width: 25
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_211
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1048
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 35}
+        - {x: -12, y: 35}
+        - {x: -17, y: 30}
+        - {x: -17, y: 20}
+        - {x: -12, y: 16}
+        - {x: -8, y: 17}
+        - {x: -7, y: 18}
+        - {x: -4, y: 18}
+        - {x: -6, y: 18}
+        - {x: -10, y: 13}
+        - {x: -10, y: 12}
+        - {x: -7, y: 9}
+        - {x: -6, y: 9}
+        - {x: -3, y: 1}
+        - {x: -2, y: 0}
+        - {x: 5, y: 0}
+        - {x: 17, y: 6}
+        - {x: 17, y: 21}
+        - {x: 14, y: 30}
+    - name: shanoa_212
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1047
+        width: 36
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 35}
+        - {x: -16, y: 35}
+        - {x: -18, y: 34}
+        - {x: -18, y: 16}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 18, y: 5}
+        - {x: 18, y: 23}
+        - {x: 16, y: 33}
+    - name: shanoa_213
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1047
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 35}
+        - {x: -17.5, y: 35}
+        - {x: -18.5, y: 33}
+        - {x: -18.5, y: 18}
+        - {x: -3.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 18.5, y: 4}
+        - {x: 18.5, y: 30}
+    - name: shanoa_214
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1042
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 42}
+        - {x: -18, y: 37}
+        - {x: -18, y: 13}
+        - {x: -17, y: 9}
+        - {x: -8, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 26}
+        - {x: 10, y: 42}
+    - name: shanoa_215
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1040
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 43}
+        - {x: -5, y: 43}
+        - {x: -14, y: 38}
+        - {x: -11, y: 34}
+        - {x: -6, y: 28}
+        - {x: -10, y: 32}
+        - {x: -16, y: 32}
+        - {x: -18, y: 31}
+        - {x: -18, y: 9}
+        - {x: -5, y: 0}
+        - {x: 7, y: 0}
+        - {x: 18, y: 21}
+        - {x: 18, y: 35}
+    - name: shanoa_216
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1040
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 43}
+        - {x: -15, y: 38}
+        - {x: -18, y: 33}
+        - {x: -18, y: 9}
+        - {x: -15, y: 1}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 18, y: 19}
+        - {x: 18, y: 34}
+        - {x: 10, y: 43}
+    - name: shanoa_217
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1040
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 42}
+        - {x: -18, y: 33}
+        - {x: -18, y: 9}
+        - {x: -17, y: 7}
+        - {x: -12, y: 2}
+        - {x: -3, y: 0}
+        - {x: 13, y: 0}
+        - {x: 18, y: 18}
+        - {x: 18, y: 33}
+        - {x: 7, y: 42}
+    - name: shanoa_218
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1041
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 44}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 42}
+        - {x: 14, y: 44}
+    - name: shanoa_219
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1044
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 37}
+        - {x: -20.5, y: 32}
+        - {x: -20.5, y: 0}
+        - {x: 20.5, y: 0}
+        - {x: 20.5, y: 36}
+        - {x: 19.5, y: 37}
+    - name: shanoa_220
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1040
+        width: 42
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 40}
+        - {x: -21, y: 0}
+        - {x: 18, y: 0}
+        - {x: 21, y: 8}
+        - {x: 21, y: 28}
+        - {x: 14, y: 40}
+    - name: shanoa_221
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1040
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 43}
+        - {x: -16.5, y: 39}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 41}
+        - {x: 15.5, y: 43}
+    - name: shanoa_222
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1040
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 42}
+        - {x: -16.5, y: 37}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 38}
+        - {x: 11.5, y: 42}
+    - name: shanoa_223
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1040
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_224
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1040
+        width: 25
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_225
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1040
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_226
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1000
+        width: 35
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_227
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1000
+        width: 35
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_228
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1000
+        width: 48
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_229
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 998
+        width: 55
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_230
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 998
+        width: 55
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_231
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 998
+        width: 56
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_232
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1000
+        width: 48
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_233
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1000
+        width: 36
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 34}
+        - {x: -18, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 7}
+        - {x: 12, y: 27}
+        - {x: -1, y: 34}
+    - name: shanoa_234
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1000
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 35}
+        - {x: -17, y: 35}
+        - {x: -17, y: 24}
+        - {x: -11, y: 20}
+        - {x: -17, y: 15}
+        - {x: -17, y: 5}
+        - {x: -13, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 10}
+        - {x: 6, y: 30}
+    - name: shanoa_235
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1000
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_236
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1000
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_237
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1000
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_238
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1000
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_239
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1000
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_240
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1000
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_241
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1000
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_242
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1000
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_243
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1000
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_244
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1000
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_245
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 920
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_246
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 920
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_247
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 920
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_248
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 920
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_249
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 920
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_250
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 920
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_251
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 920
+        width: 22
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_252
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 920
+        width: 22
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_253
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 920
+        width: 26
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_254
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 920
+        width: 25
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_255
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 920
+        width: 24
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_256
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 920
+        width: 25
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_257
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 920
+        width: 28
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_258
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 920
+        width: 28
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_259
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 920
+        width: 29
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_260
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 920
+        width: 30
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_261
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 920
+        width: 29
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_262
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 920
+        width: 24
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_263
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 920
+        width: 23
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_264
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 920
+        width: 25
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_265
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 920
+        width: 26
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_266
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 920
+        width: 30
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_267
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 920
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 41}
+        - {x: -16, y: 16}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 39}
+        - {x: 15, y: 41}
+    - name: shanoa_268
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 920
+        width: 33
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 40}
+        - {x: -15.5, y: 18}
+        - {x: -16.5, y: 13}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 40}
+    - name: shanoa_269
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 920
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_270
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 864
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 44}
+        - {x: 14, y: 48}
+        - {x: -5, y: 48}
+        - {x: -16, y: 42}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+    - name: shanoa_271
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 864
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 24}
+        - {x: 16, y: 28}
+        - {x: 16, y: 47}
+        - {x: 14, y: 49}
+        - {x: -7, y: 49}
+        - {x: -16, y: 43}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 11}
+        - {x: 15, y: 21}
+    - name: shanoa_272
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 864
+        width: 49
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 45}
+        - {x: -24.5, y: 43}
+        - {x: -24.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 24.5, y: 25}
+        - {x: 24.5, y: 38}
+        - {x: 12.5, y: 45}
+    - name: shanoa_273
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 864
+        width: 49
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 46}
+        - {x: -24.5, y: 45}
+        - {x: -24.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 24.5, y: 25}
+        - {x: 24.5, y: 38}
+        - {x: 12.5, y: 46}
+    - name: shanoa_274
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 864
+        width: 49
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 46}
+        - {x: -24.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 24.5, y: 18}
+        - {x: 24.5, y: 38}
+        - {x: 11.5, y: 46}
+    - name: shanoa_275
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 864
+        width: 47
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 2}
+        - {x: 23.5, y: 28}
+        - {x: 23.5, y: 36}
+        - {x: 6.5, y: 48}
+        - {x: -18.5, y: 48}
+        - {x: -21.5, y: 47}
+        - {x: -23.5, y: 36}
+        - {x: -23.5, y: 0}
+        - {x: 10.5, y: 0}
+    - name: shanoa_276
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 864
+        width: 47
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 4}
+        - {x: 23.5, y: 48}
+        - {x: -20.5, y: 48}
+        - {x: -23.5, y: 43}
+        - {x: -23.5, y: 0}
+        - {x: 12.5, y: 0}
+    - name: shanoa_277
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 864
+        width: 46
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 48}
+        - {x: -23, y: 43}
+        - {x: -23, y: 0}
+        - {x: 21, y: 0}
+        - {x: 23, y: 7}
+        - {x: 23, y: 39}
+        - {x: 7, y: 48}
+    - name: shanoa_278
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 864
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 44}
+        - {x: 5, y: 45}
+        - {x: -17, y: 45}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 36}
+    - name: shanoa_279
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 864
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 44}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 38}
+        - {x: 10, y: 44}
+    - name: shanoa_280
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 864
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 43}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 37}
+        - {x: 13, y: 43}
+    - name: shanoa_281
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 864
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_282
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 864
+        width: 27
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_283
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 864
+        width: 24
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_284
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 862
+        width: 50
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 44}
+        - {x: -25, y: 44}
+        - {x: -25, y: 5}
+        - {x: -13, y: 0}
+        - {x: 2, y: 0}
+        - {x: 24, y: 27}
+        - {x: 25, y: 28}
+        - {x: 25, y: 36}
+    - name: shanoa_285
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 863
+        width: 49
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 44}
+        - {x: -21.5, y: 39}
+        - {x: -19.5, y: 31}
+        - {x: -17.5, y: 29}
+        - {x: -24.5, y: 14}
+        - {x: -24.5, y: 2}
+        - {x: -19.5, y: 0}
+        - {x: 1.5, y: 0}
+        - {x: 24.5, y: 19}
+        - {x: 24.5, y: 37}
+        - {x: 18.5, y: 44}
+    - name: shanoa_286
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 864
+        width: 48
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 44}
+        - {x: -19, y: 36}
+        - {x: -24, y: 19}
+        - {x: -24, y: 0}
+        - {x: 8, y: 0}
+        - {x: 24, y: 23}
+        - {x: 24, y: 44}
+    - name: shanoa_287
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 863
+        width: 49
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 44}
+        - {x: -21.5, y: 39}
+        - {x: -19.5, y: 31}
+        - {x: -17.5, y: 29}
+        - {x: -24.5, y: 14}
+        - {x: -24.5, y: 2}
+        - {x: -19.5, y: 0}
+        - {x: 1.5, y: 0}
+        - {x: 24.5, y: 19}
+        - {x: 24.5, y: 37}
+        - {x: 18.5, y: 44}
+    - name: shanoa_288
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 863
+        width: 42
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 45}
+        - {x: -21, y: 39}
+        - {x: -21, y: 0}
+        - {x: 3, y: 0}
+        - {x: 21, y: 20}
+        - {x: 21, y: 38}
+        - {x: 8, y: 45}
+    - name: shanoa_289
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 808
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 22}
+        - {x: 5.5, y: 23}
+        - {x: 8.5, y: 23}
+        - {x: 11.5, y: 25}
+        - {x: 16.5, y: 35}
+        - {x: 16.5, y: 42}
+        - {x: 4.5, y: 51}
+        - {x: -6.5, y: 51}
+        - {x: -9.5, y: 50}
+        - {x: -16.5, y: 35}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 17}
+        - {x: 10.5, y: 23}
+        - {x: 6.5, y: 23}
+    - name: shanoa_290
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 808
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 51}
+        - {x: -19.5, y: 50}
+        - {x: -19.5, y: 4}
+        - {x: -17.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 38}
+        - {x: -3.5, y: 51}
+    - name: shanoa_291
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 808
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 52}
+        - {x: -19.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 41}
+        - {x: 9.5, y: 52}
+    - name: shanoa_292
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 808
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 52}
+        - {x: -19.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 36}
+        - {x: -2.5, y: 52}
+    - name: shanoa_293
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 808
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 48}
+        - {x: -20, y: 0}
+        - {x: 20, y: 0}
+        - {x: 20, y: 37}
+        - {x: 7, y: 48}
+    - name: shanoa_294
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 808
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 50}
+        - {x: -19.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 39}
+        - {x: 0.5, y: 50}
+    - name: shanoa_295
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 808
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 42}
+        - {x: -12.5, y: 42}
+        - {x: -16.5, y: 38}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 23}
+        - {x: 14.5, y: 41}
+    - name: shanoa_296
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 808
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 43}
+        - {x: -16.5, y: 39}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 41}
+        - {x: 15.5, y: 43}
+    - name: shanoa_297
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 808
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 42}
+        - {x: -16.5, y: 37}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 38}
+        - {x: 11.5, y: 42}
+    - name: shanoa_298
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 808
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_299
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 808
+        width: 25
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_300
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 808
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_301
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 760
+        width: 29
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_302
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 760
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 50}
+        - {x: -16, y: 43}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 41}
+        - {x: 6, y: 50}
+    - name: shanoa_303
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 776
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_304
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 776
+        width: 49
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_305
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 776
+        width: 49
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_306
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 776
+        width: 43
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 32}
+        - {x: -21.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 21.5, y: 5}
+        - {x: 21.5, y: 27}
+        - {x: 9.5, y: 32}
+    - name: shanoa_307
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 776
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_308
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 776
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_309
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 776
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_310
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 776
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_311
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 776
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_312
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 776
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_313
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 776
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_314
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 776
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_315
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 776
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_316
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 776
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_317
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 760
+        width: 37
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 41}
+        - {x: -18.5, y: 31}
+        - {x: -18.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 18.5, y: 38}
+        - {x: 15.5, y: 41}
+    - name: shanoa_318
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 760
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 40}
+        - {x: -9, y: 37}
+        - {x: -8, y: 29}
+        - {x: -5, y: 28}
+        - {x: -3, y: 28}
+        - {x: -4, y: 25}
+        - {x: -10, y: 29}
+        - {x: -16, y: 28}
+        - {x: -18, y: 25}
+        - {x: -18, y: 0}
+        - {x: 13, y: 0}
+        - {x: 18, y: 3}
+        - {x: 18, y: 39}
+        - {x: 16, y: 40}
+    - name: shanoa_319
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 760
+        width: 36
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 44}
+        - {x: -11, y: 42}
+        - {x: -18, y: 29}
+        - {x: -18, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 43}
+        - {x: 17, y: 44}
+    - name: shanoa_320
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 760
+        width: 37
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 42}
+        - {x: -18.5, y: 36}
+        - {x: -18.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 18.5, y: 32}
+        - {x: 13.5, y: 42}
+    - name: shanoa_321
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 760
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 38}
+        - {x: -10.5, y: 38}
+        - {x: -18.5, y: 26}
+        - {x: -18.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 18.5, y: 3}
+        - {x: 18.5, y: 30}
+        - {x: 15.5, y: 36}
+    - name: shanoa_322
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 760
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 34}
+        - {x: -14.5, y: 30}
+        - {x: -16.5, y: 19}
+        - {x: -16.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 16.5, y: 15}
+        - {x: 16.5, y: 34}
+    - name: shanoa_323
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 760
+        width: 23
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_324
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 686
+        width: 31
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_325
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 736
+        width: 38
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 37}
+        - {x: -19, y: 37}
+        - {x: -19, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 2}
+        - {x: 19, y: 8}
+        - {x: 19, y: 28}
+    - name: shanoa_326
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 736
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 38}
+        - {x: -19, y: 0}
+        - {x: 17, y: 0}
+        - {x: 19, y: 5}
+        - {x: 19, y: 22}
+        - {x: -2, y: 38}
+    - name: shanoa_327
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 736
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 38}
+        - {x: -19, y: 0}
+        - {x: 17, y: 0}
+        - {x: 19, y: 4}
+        - {x: 19, y: 27}
+        - {x: -1, y: 38}
+    - name: shanoa_328
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 736
+        width: 37
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 36}
+        - {x: -18.5, y: 36}
+        - {x: -18.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 15.5, y: 2}
+        - {x: 18.5, y: 6}
+        - {x: 18.5, y: 19}
+    - name: shanoa_329
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 736
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 36}
+        - {x: -18, y: 36}
+        - {x: -18, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 2}
+        - {x: 18, y: 5}
+        - {x: 18, y: 21}
+    - name: shanoa_330
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 736
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 35}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 20}
+        - {x: -0.5, y: 35}
+    - name: shanoa_331
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 736
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_332
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 736
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_333
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 736
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_334
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 736
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_335
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 736
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_336
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 736
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_337
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 736
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_338
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 736
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_339
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 704
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 48}
+        - {x: -22, y: 16}
+        - {x: -14, y: 0}
+        - {x: 22, y: 0}
+        - {x: 22, y: 41}
+        - {x: 1, y: 48}
+    - name: shanoa_340
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 704
+        width: 43
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 46}
+        - {x: -21.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 21.5, y: 46}
+    - name: shanoa_341
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 704
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 48}
+        - {x: -21.5, y: 48}
+        - {x: -21.5, y: 27}
+        - {x: -20.5, y: 26}
+        - {x: -21.5, y: 25}
+        - {x: -21.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 21.5, y: 42}
+        - {x: 12.5, y: 46}
+    - name: shanoa_342
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 704
+        width: 43
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 49}
+        - {x: -21.5, y: 49}
+        - {x: -21.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 21.5, y: 43}
+        - {x: 0.5, y: 48}
+    - name: shanoa_343
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 686
+        width: 49
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 18}
+        - {x: 24.5, y: 47}
+        - {x: -23.5, y: 47}
+        - {x: -24.5, y: 46}
+        - {x: -24.5, y: 11}
+        - {x: -17.5, y: 0}
+        - {x: -9.5, y: 0}
+        - {x: -8.5, y: 1}
+        - {x: -1.5, y: 4}
+        - {x: 22.5, y: 13}
+    - name: shanoa_344
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 686
+        width: 49
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 48}
+        - {x: -24.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 24.5, y: 28}
+        - {x: 24.5, y: 41}
+        - {x: 14.5, y: 48}
+    - name: shanoa_345
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 686
+        width: 49
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 48}
+        - {x: -24.5, y: 48}
+        - {x: -24.5, y: 8}
+        - {x: -22.5, y: 0}
+        - {x: -4.5, y: 0}
+        - {x: 2.5, y: 6}
+        - {x: 24.5, y: 29}
+        - {x: 24.5, y: 41}
+    - name: shanoa_346
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 686
+        width: 46
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 44}
+        - {x: 5, y: 50}
+        - {x: -15, y: 50}
+        - {x: -23, y: 40}
+        - {x: -23, y: 8}
+        - {x: -20, y: 1}
+        - {x: -19, y: 0}
+        - {x: -7, y: 0}
+        - {x: 3, y: 7}
+        - {x: 16, y: 16}
+        - {x: 23, y: 27}
+    - name: shanoa_347
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 686
+        width: 45
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 50}
+        - {x: -14.5, y: 50}
+        - {x: -22.5, y: 40}
+        - {x: -22.5, y: 39}
+        - {x: -21.5, y: 35}
+        - {x: -15.5, y: 29}
+        - {x: -17.5, y: 31}
+        - {x: -20.5, y: 31}
+        - {x: -22.5, y: 29}
+        - {x: -22.5, y: 0}
+        - {x: -3.5, y: 0}
+        - {x: 6.5, y: 4}
+        - {x: 22.5, y: 30}
+        - {x: 22.5, y: 39}
+    - name: shanoa_348
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 686
+        width: 33
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 47}
+        - {x: -16.5, y: 11}
+        - {x: -12.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 16.5, y: 13}
+        - {x: 16.5, y: 42}
+        - {x: 8.5, y: 47}
+    - name: shanoa_349
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 686
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_350
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 624
+        width: 31
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_351
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 624
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 51}
+        - {x: -19.5, y: 50}
+        - {x: -19.5, y: 8}
+        - {x: -15.5, y: 0}
+        - {x: -4.5, y: 0}
+        - {x: 19.5, y: 6}
+        - {x: 19.5, y: 38}
+        - {x: 3.5, y: 51}
+    - name: shanoa_352
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 624
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 52}
+        - {x: -19.5, y: 0}
+        - {x: -0.5, y: 0}
+        - {x: 19.5, y: 5}
+        - {x: 19.5, y: 41}
+        - {x: 2.5, y: 52}
+    - name: shanoa_353
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 624
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 52}
+        - {x: -19.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 19.5, y: 6}
+        - {x: 19.5, y: 39}
+        - {x: -1.5, y: 52}
+    - name: shanoa_354
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 624
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 25}
+        - {x: 19.5, y: 27}
+        - {x: 19.5, y: 36}
+        - {x: -2.5, y: 48}
+        - {x: -19.5, y: 48}
+        - {x: -19.5, y: 5}
+        - {x: -18.5, y: 0}
+        - {x: 3.5, y: 0}
+        - {x: 19.5, y: 8}
+        - {x: 19.5, y: 17}
+        - {x: 14.5, y: 21}
+    - name: shanoa_355
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 624
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 50}
+        - {x: -19, y: 1}
+        - {x: -18, y: 0}
+        - {x: 9, y: 0}
+        - {x: 19, y: 9}
+        - {x: 19, y: 36}
+        - {x: 7, y: 50}
+    - name: shanoa_356
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 623
+        width: 32
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 53}
+        - {x: -16, y: 53}
+        - {x: -16, y: 2}
+        - {x: -12, y: 0}
+        - {x: 6, y: 0}
+        - {x: 16, y: 7}
+        - {x: 16, y: 36}
+        - {x: 14, y: 42}
+    - name: shanoa_357
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 622
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_358
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 560
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 43}
+        - {x: -13.5, y: 43}
+        - {x: -16.5, y: 40}
+        - {x: -15.5, y: 27}
+        - {x: -11.5, y: 23}
+        - {x: -9.5, y: 23}
+        - {x: -12.5, y: 23}
+        - {x: -18.5, y: 20}
+        - {x: -18.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 18.5, y: 21}
+        - {x: 17.5, y: 42}
+    - name: shanoa_359
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 560
+        width: 49
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 45}
+        - {x: -24.5, y: 43}
+        - {x: -24.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 24.5, y: 25}
+        - {x: 24.5, y: 38}
+        - {x: 12.5, y: 45}
+    - name: shanoa_360
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 560
+        width: 32
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 51}
+        - {x: -16, y: 47}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 51}
+    - name: shanoa_361
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 560
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 24}
+        - {x: 16, y: 28}
+        - {x: 16, y: 47}
+        - {x: 14, y: 49}
+        - {x: -7, y: 49}
+        - {x: -16, y: 43}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 11}
+        - {x: 15, y: 21}
+    - name: shanoa_362
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 560
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 44}
+        - {x: 14, y: 48}
+        - {x: -5, y: 48}
+        - {x: -16, y: 42}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+    - name: shanoa_363
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 560
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 44}
+        - {x: 5, y: 45}
+        - {x: -17, y: 45}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 36}
+    - name: shanoa_364
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 560
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 44}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 38}
+        - {x: 10, y: 44}
+    - name: shanoa_365
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 560
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 43}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 37}
+        - {x: 13, y: 43}
+    - name: shanoa_366
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 560
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_367
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 560
+        width: 27
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_368
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 560
+        width: 24
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_369
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 504
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 22}
+        - {x: 5.5, y: 23}
+        - {x: 8.5, y: 23}
+        - {x: 11.5, y: 25}
+        - {x: 16.5, y: 35}
+        - {x: 16.5, y: 42}
+        - {x: 4.5, y: 51}
+        - {x: -6.5, y: 51}
+        - {x: -9.5, y: 50}
+        - {x: -16.5, y: 35}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 17}
+        - {x: 10.5, y: 23}
+        - {x: 6.5, y: 23}
+    - name: shanoa_370
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 504
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 48}
+        - {x: -20, y: 0}
+        - {x: 20, y: 0}
+        - {x: 20, y: 37}
+        - {x: 7, y: 48}
+    - name: shanoa_371
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 504
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 52}
+        - {x: -19.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 36}
+        - {x: -2.5, y: 52}
+    - name: shanoa_372
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 504
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 52}
+        - {x: -19.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 41}
+        - {x: 9.5, y: 52}
+    - name: shanoa_373
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 504
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 46}
+        - {x: 15, y: 52}
+        - {x: -19, y: 52}
+        - {x: -19, y: 0}
+        - {x: 19, y: 0}
+    - name: shanoa_374
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 504
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 52}
+        - {x: -19, y: 52}
+        - {x: -19, y: 0}
+        - {x: 19, y: 0}
+        - {x: 19, y: 26}
+        - {x: 15, y: 46}
+    - name: shanoa_375
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 504
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 42}
+        - {x: -12.5, y: 42}
+        - {x: -16.5, y: 38}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 23}
+        - {x: 14.5, y: 41}
+    - name: shanoa_376
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 504
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 43}
+        - {x: -16.5, y: 39}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 41}
+        - {x: 15.5, y: 43}
+    - name: shanoa_377
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 504
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 42}
+        - {x: -16.5, y: 37}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 38}
+        - {x: 11.5, y: 42}
+    - name: shanoa_378
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 504
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_379
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 504
+        width: 25
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_380
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 504
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_381
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 464
+        width: 33
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_382
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 464
+        width: 49
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_383
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 464
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_384
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 464
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_385
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 464
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_386
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 464
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_387
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 464
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_388
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 464
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_389
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 464
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_390
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 464
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_391
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 464
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_392
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 464
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_393
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 464
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_394
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 424
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_395
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 424
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 35}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 20}
+        - {x: -0.5, y: 35}
+    - name: shanoa_396
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 424
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 36}
+        - {x: -18, y: 36}
+        - {x: -18, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 2}
+        - {x: 18, y: 5}
+        - {x: 18, y: 21}
+    - name: shanoa_397
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 424
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 38}
+        - {x: -19, y: 0}
+        - {x: 17, y: 0}
+        - {x: 19, y: 4}
+        - {x: 19, y: 27}
+        - {x: -1, y: 38}
+    - name: shanoa_398
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 424
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 38}
+        - {x: -19, y: 0}
+        - {x: 17, y: 0}
+        - {x: 19, y: 5}
+        - {x: 19, y: 22}
+        - {x: -2, y: 38}
+    - name: shanoa_399
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 424
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_400
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 448
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_401
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 445
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_402
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 424
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_403
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 424
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_404
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 424
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_405
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 424
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_406
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 424
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_407
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 424
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_408
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 424
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_409
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 424
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_410
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 424
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_411
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 366
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 46}
+        - {x: -17, y: 12}
+        - {x: -12, y: 0}
+        - {x: 5, y: 0}
+        - {x: 17, y: 14}
+        - {x: 17, y: 46}
+    - name: shanoa_412
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 366
+        width: 49
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 18}
+        - {x: 24.5, y: 47}
+        - {x: -23.5, y: 47}
+        - {x: -24.5, y: 46}
+        - {x: -24.5, y: 11}
+        - {x: -17.5, y: 0}
+        - {x: -9.5, y: 0}
+        - {x: -8.5, y: 1}
+        - {x: -1.5, y: 4}
+        - {x: 22.5, y: 13}
+    - name: shanoa_413
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 366
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_414
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 366
+        width: 31
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_415
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 366
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_416
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 366
+        width: 33
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 47}
+        - {x: -16.5, y: 11}
+        - {x: -12.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 16.5, y: 13}
+        - {x: 16.5, y: 42}
+        - {x: 8.5, y: 47}
+    - name: shanoa_417
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 366
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_418
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 304
+        width: 31
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_419
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 304
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 25}
+        - {x: 19.5, y: 27}
+        - {x: 19.5, y: 36}
+        - {x: -2.5, y: 48}
+        - {x: -19.5, y: 48}
+        - {x: -19.5, y: 5}
+        - {x: -18.5, y: 0}
+        - {x: 3.5, y: 0}
+        - {x: 19.5, y: 8}
+        - {x: 19.5, y: 17}
+        - {x: 14.5, y: 21}
+    - name: shanoa_420
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 304
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 50}
+        - {x: -19, y: 1}
+        - {x: -18, y: 0}
+        - {x: 9, y: 0}
+        - {x: 19, y: 9}
+        - {x: 19, y: 36}
+        - {x: 7, y: 50}
+    - name: shanoa_421
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 304
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 52}
+        - {x: -19.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 19.5, y: 6}
+        - {x: 19.5, y: 39}
+        - {x: -1.5, y: 52}
+    - name: shanoa_422
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 304
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 52}
+        - {x: -19.5, y: 0}
+        - {x: -0.5, y: 0}
+        - {x: 19.5, y: 5}
+        - {x: 19.5, y: 41}
+        - {x: 2.5, y: 52}
+    - name: shanoa_423
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 304
+        width: 34
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 52}
+        - {x: -17, y: 4}
+        - {x: -15, y: 0}
+        - {x: 0, y: 0}
+        - {x: 17, y: 6}
+        - {x: 17, y: 52}
+    - name: shanoa_424
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 339
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_425
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 304
+        width: 34
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 52}
+        - {x: -17, y: 0}
+        - {x: 10, y: 0}
+        - {x: 17, y: 1}
+        - {x: 17, y: 47}
+        - {x: 13, y: 52}
+    - name: shanoa_426
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 303
+        width: 32
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 53}
+        - {x: -16, y: 53}
+        - {x: -16, y: 2}
+        - {x: -12, y: 0}
+        - {x: 6, y: 0}
+        - {x: 16, y: 7}
+        - {x: 16, y: 36}
+        - {x: 14, y: 42}
+    - name: shanoa_427
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 302
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_428
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 248
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 43}
+        - {x: -13.5, y: 43}
+        - {x: -16.5, y: 40}
+        - {x: -15.5, y: 27}
+        - {x: -11.5, y: 23}
+        - {x: -9.5, y: 23}
+        - {x: -12.5, y: 23}
+        - {x: -18.5, y: 20}
+        - {x: -18.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 18.5, y: 21}
+        - {x: 17.5, y: 42}
+    - name: shanoa_429
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 248
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 44}
+        - {x: -17, y: 40}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 37}
+        - {x: 13, y: 44}
+    - name: shanoa_430
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 248
+        width: 49
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 46}
+        - {x: -24.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 24.5, y: 18}
+        - {x: 24.5, y: 38}
+        - {x: 11.5, y: 46}
+    - name: shanoa_431
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 248
+        width: 47
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 2}
+        - {x: 23.5, y: 28}
+        - {x: 23.5, y: 36}
+        - {x: 6.5, y: 48}
+        - {x: -18.5, y: 48}
+        - {x: -21.5, y: 47}
+        - {x: -23.5, y: 36}
+        - {x: -23.5, y: 0}
+        - {x: 10.5, y: 0}
+    - name: shanoa_432
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 248
+        width: 47
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 4}
+        - {x: 23.5, y: 48}
+        - {x: -20.5, y: 48}
+        - {x: -23.5, y: 43}
+        - {x: -23.5, y: 0}
+        - {x: 12.5, y: 0}
+    - name: shanoa_433
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 248
+        width: 46
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 48}
+        - {x: -23, y: 43}
+        - {x: -23, y: 0}
+        - {x: 21, y: 0}
+        - {x: 23, y: 7}
+        - {x: 23, y: 39}
+        - {x: 7, y: 48}
+    - name: shanoa_434
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 248
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 44}
+        - {x: 5, y: 45}
+        - {x: -17, y: 45}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 36}
+    - name: shanoa_435
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 248
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 44}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 38}
+        - {x: 10, y: 44}
+    - name: shanoa_436
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 248
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 43}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 37}
+        - {x: 13, y: 43}
+    - name: shanoa_437
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 248
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_438
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 248
+        width: 27
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_439
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 248
+        width: 24
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_440
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 22}
+        - {x: 5.5, y: 23}
+        - {x: 8.5, y: 23}
+        - {x: 11.5, y: 25}
+        - {x: 16.5, y: 35}
+        - {x: 16.5, y: 42}
+        - {x: 4.5, y: 51}
+        - {x: -6.5, y: 51}
+        - {x: -9.5, y: 50}
+        - {x: -16.5, y: 35}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 17}
+        - {x: 10.5, y: 23}
+        - {x: 6.5, y: 23}
+    - name: shanoa_441
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 192
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 51}
+        - {x: -19.5, y: 50}
+        - {x: -19.5, y: 4}
+        - {x: -17.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 38}
+        - {x: -3.5, y: 51}
+    - name: shanoa_442
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 192
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 52}
+        - {x: -19.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 41}
+        - {x: 9.5, y: 52}
+    - name: shanoa_443
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 160
+        width: 58
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 13}
+        - {x: 29, y: 45}
+        - {x: 4, y: 84}
+        - {x: -29, y: 84}
+        - {x: -29, y: 12}
+        - {x: -16, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 1}
+        - {x: 11, y: 5}
+        - {x: 28, y: 12}
+      - - {x: -25, y: 22}
+        - {x: -29, y: 21}
+        - {x: -29, y: 13}
+        - {x: -20, y: 13}
+        - {x: -17, y: 16}
+        - {x: -17, y: 17}
+        - {x: -21, y: 22}
+      - - {x: 15, y: 82}
+        - {x: 15, y: 32}
+        - {x: 25, y: 30}
+        - {x: 29, y: 30}
+        - {x: 29, y: 82}
+    - name: shanoa_444
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 192
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 48}
+        - {x: -20, y: 0}
+        - {x: 20, y: 0}
+        - {x: 20, y: 37}
+        - {x: 7, y: 48}
+    - name: shanoa_445
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 192
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 50}
+        - {x: -19.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 39}
+        - {x: 0.5, y: 50}
+    - name: shanoa_446
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 192
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 42}
+        - {x: -12.5, y: 42}
+        - {x: -16.5, y: 38}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 23}
+        - {x: 14.5, y: 41}
+    - name: shanoa_447
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 192
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 43}
+        - {x: -16.5, y: 39}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 41}
+        - {x: 15.5, y: 43}
+    - name: shanoa_448
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 192
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 42}
+        - {x: -16.5, y: 37}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 38}
+        - {x: 11.5, y: 42}
+    - name: shanoa_449
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 192
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_450
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 192
+        width: 25
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_451
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 192
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_452
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 33
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_453
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 160
+        width: 49
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_454
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 160
+        width: 49
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_455
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 160
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_456
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 160
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_457
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 160
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_458
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 160
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_459
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 160
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_460
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 160
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_461
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 160
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_462
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 160
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_463
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 160
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_464
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 160
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_465
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 120
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_466
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 120
+        width: 38
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 37}
+        - {x: -19, y: 37}
+        - {x: -19, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 2}
+        - {x: 19, y: 8}
+        - {x: 19, y: 28}
+    - name: shanoa_467
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 120
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 38}
+        - {x: -19, y: 0}
+        - {x: 17, y: 0}
+        - {x: 19, y: 5}
+        - {x: 19, y: 22}
+        - {x: -2, y: 38}
+    - name: shanoa_468
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 120
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 38}
+        - {x: -19, y: 0}
+        - {x: 17, y: 0}
+        - {x: 19, y: 4}
+        - {x: 19, y: 27}
+        - {x: -1, y: 38}
+    - name: shanoa_469
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 120
+        width: 37
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 36}
+        - {x: -18.5, y: 36}
+        - {x: -18.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 15.5, y: 2}
+        - {x: 18.5, y: 6}
+        - {x: 18.5, y: 19}
+    - name: shanoa_470
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 120
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 36}
+        - {x: -18, y: 36}
+        - {x: -18, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 2}
+        - {x: 18, y: 5}
+        - {x: 18, y: 21}
+    - name: shanoa_471
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 120
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 35}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 20}
+        - {x: -0.5, y: 35}
+    - name: shanoa_472
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 120
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_473
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 120
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_474
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 120
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_475
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 120
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_476
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 120
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_477
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 120
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_478
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 120
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_479
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 120
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_480
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 70
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 46}
+        - {x: -17, y: 12}
+        - {x: -12, y: 0}
+        - {x: 5, y: 0}
+        - {x: 17, y: 14}
+        - {x: 17, y: 46}
+    - name: shanoa_481
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 70
+        width: 49
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 18}
+        - {x: 24.5, y: 47}
+        - {x: -23.5, y: 47}
+        - {x: -24.5, y: 46}
+        - {x: -24.5, y: 11}
+        - {x: -17.5, y: 0}
+        - {x: -9.5, y: 0}
+        - {x: -8.5, y: 1}
+        - {x: -1.5, y: 4}
+        - {x: 22.5, y: 13}
+    - name: shanoa_482
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 70
+        width: 49
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 48}
+        - {x: -24.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 24.5, y: 28}
+        - {x: 24.5, y: 41}
+        - {x: 14.5, y: 48}
+    - name: shanoa_483
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 70
+        width: 49
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 48}
+        - {x: -24.5, y: 48}
+        - {x: -24.5, y: 8}
+        - {x: -22.5, y: 0}
+        - {x: -4.5, y: 0}
+        - {x: 2.5, y: 6}
+        - {x: 24.5, y: 29}
+        - {x: 24.5, y: 41}
+    - name: shanoa_484
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 70
+        width: 46
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 44}
+        - {x: 5, y: 50}
+        - {x: -15, y: 50}
+        - {x: -23, y: 40}
+        - {x: -23, y: 8}
+        - {x: -20, y: 1}
+        - {x: -19, y: 0}
+        - {x: -7, y: 0}
+        - {x: 3, y: 7}
+        - {x: 16, y: 16}
+        - {x: 23, y: 27}
+    - name: shanoa_485
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 70
+        width: 45
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 50}
+        - {x: -14.5, y: 50}
+        - {x: -22.5, y: 40}
+        - {x: -22.5, y: 39}
+        - {x: -21.5, y: 35}
+        - {x: -15.5, y: 29}
+        - {x: -17.5, y: 31}
+        - {x: -20.5, y: 31}
+        - {x: -22.5, y: 29}
+        - {x: -22.5, y: 0}
+        - {x: -3.5, y: 0}
+        - {x: 6.5, y: 4}
+        - {x: 22.5, y: 30}
+        - {x: 22.5, y: 39}
+    - name: shanoa_486
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 70
+        width: 33
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 47}
+        - {x: -16.5, y: 11}
+        - {x: -12.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 16.5, y: 13}
+        - {x: 16.5, y: 42}
+        - {x: 8.5, y: 47}
+    - name: shanoa_487
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 31
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: shanoa_488
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 8
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 51}
+        - {x: -19.5, y: 50}
+        - {x: -19.5, y: 8}
+        - {x: -15.5, y: 0}
+        - {x: -4.5, y: 0}
+        - {x: 19.5, y: 6}
+        - {x: 19.5, y: 38}
+        - {x: 3.5, y: 51}
+    - name: shanoa_489
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 8
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 52}
+        - {x: -19.5, y: 0}
+        - {x: -0.5, y: 0}
+        - {x: 19.5, y: 5}
+        - {x: 19.5, y: 41}
+        - {x: 2.5, y: 52}
+    - name: shanoa_490
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 8
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 52}
+        - {x: -19.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 19.5, y: 6}
+        - {x: 19.5, y: 39}
+        - {x: -1.5, y: 52}
+    - name: shanoa_491
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 25}
+        - {x: 19.5, y: 27}
+        - {x: 19.5, y: 36}
+        - {x: -2.5, y: 48}
+        - {x: -19.5, y: 48}
+        - {x: -19.5, y: 5}
+        - {x: -18.5, y: 0}
+        - {x: 3.5, y: 0}
+        - {x: 19.5, y: 8}
+        - {x: 19.5, y: 17}
+        - {x: 14.5, y: 21}
+    - name: shanoa_492
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 8
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 50}
+        - {x: -19, y: 1}
+        - {x: -18, y: 0}
+        - {x: 9, y: 0}
+        - {x: 19, y: 9}
+        - {x: 19, y: 36}
+        - {x: 7, y: 50}
+    - name: shanoa_493
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 7
+        width: 32
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 53}
+        - {x: -16, y: 53}
+        - {x: -16, y: 2}
+        - {x: -12, y: 0}
+        - {x: 6, y: 0}
+        - {x: 16, y: 7}
+        - {x: 16, y: 36}
+        - {x: 14, y: 42}
+    - name: shanoa_494
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 6
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 6c095e9f32f7d8a4f8fe9e8ec14aee14
+timeCreated: 1463027339
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Level_0
+    21300002: Level_1
+    21300004: Level_2
+    21300006: Level_3
+    21300008: Level_4
+    21300010: Level_5
+    21300012: Level_6
+    21300014: Level_7
+    21300016: Level_8
+    21300018: Level_9
+    21300020: Level_10
+    21300022: Level_11
+    21300024: Level_12
+    21300026: Level_13
+    21300028: Level_14
+    21300030: Level_15
+    21300032: Level_16
+    21300034: Level_17
+    21300036: Level_18
+    21300038: Level_19
+    21300040: Level_20
+    21300042: Level_21
+    21300044: Level_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Level_0
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 186
+        width: 261
+        height: 724
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.564148, y: 256.0835}
+        - {x: 14.564148, y: 230.0835}
+        - {x: -0.43585205, y: 218.0835}
+        - {x: -0.43585205, y: 0.083496094}
+        - {x: 92.56415, y: 0.083496094}
+        - {x: 92.56415, y: 256.0835}
+    - name: Level_1
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 731
+        width: 1027
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.024445, y: 7.5621033}
+        - {x: 44.024445, y: -2.4378967}
+        - {x: 48.024445, y: -6.4378967}
+        - {x: 40.024445, y: -1.4378967}
+        - {x: 16.024445, y: 25.562103}
+        - {x: -88.975555, y: 38.562103}
+        - {x: -126.975555, y: 7.5621033}
+        - {x: -117.975555, y: -1.4378967}
+        - {x: -129.97556, y: 9.562103}
+        - {x: -155.97556, y: 30.562103}
+        - {x: -175.97556, y: 40.562103}
+        - {x: -180.97556, y: 40.562103}
+        - {x: -180.97556, y: -39.437897}
+        - {x: 181.02444, y: -39.437897}
+        - {x: 181.02444, y: 40.562103}
+        - {x: 152.02444, y: 40.562103}
+        - {x: 123.024445, y: 33.562103}
+    - name: Level_2
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 731
+        width: 434
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.244385, y: 40.562103}
+        - {x: -76.244385, y: -38.437897}
+        - {x: -75.244385, y: -39.437897}
+        - {x: 77.755615, y: -39.437897}
+        - {x: 77.755615, y: 22.562103}
+        - {x: 60.755615, y: 40.562103}
+    - name: Level_3
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 731
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Level_4
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 748
+        width: 1619
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Level_5
+      rect:
+        serializedVersion: 2
+        x: 4525
+        y: 700
+        width: 1282
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168.84827, y: 35.63951}
+        - {x: 103.84827, y: 35.63951}
+        - {x: 89.84827, y: 22.639511}
+        - {x: 99.84827, y: 7.639511}
+        - {x: 102.84827, y: 6.639511}
+        - {x: 54.848267, y: 23.639511}
+        - {x: -45.151733, y: 35.63951}
+        - {x: -112.15173, y: 35.63951}
+        - {x: -226.15173, y: 17.639511}
+        - {x: -226.15173, y: -33.36049}
+        - {x: -225.15173, y: -34.36049}
+        - {x: 226.84827, y: -34.36049}
+        - {x: 226.84827, y: 13.639511}
+        - {x: 217.84827, y: 17.639511}
+    - name: Level_6
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 487
+        width: 258
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.475555, y: 41.090637}
+        - {x: -45.475555, y: -39.909363}
+        - {x: 45.524445, y: -39.909363}
+        - {x: 45.524445, y: 41.090637}
+    - name: Level_7
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 487
+        width: 258
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.081482, y: 41.590637}
+        - {x: -45.081482, y: 40.590637}
+        - {x: -45.081482, y: -39.409363}
+        - {x: -44.081482, y: -40.409363}
+        - {x: 46.918518, y: -40.409363}
+        - {x: 46.918518, y: 41.590637}
+    - name: Level_8
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 487
+        width: 258
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.13037, y: 41.590637}
+        - {x: -45.13037, y: 40.590637}
+        - {x: -45.13037, y: -39.409363}
+        - {x: -44.13037, y: -40.409363}
+        - {x: 46.86963, y: -40.409363}
+        - {x: 46.86963, y: 41.590637}
+    - name: Level_9
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 490
+        width: 261
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.6792, y: 41.14766}
+        - {x: -45.6792, y: 40.14766}
+        - {x: -45.6792, y: -38.85234}
+        - {x: -44.6792, y: -39.85234}
+        - {x: 47.3208, y: -39.85234}
+        - {x: 47.3208, y: 41.14766}
+    - name: Level_10
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 490
+        width: 261
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.67108, y: 41.14766}
+        - {x: -45.67108, y: 40.14766}
+        - {x: -45.67108, y: -38.85234}
+        - {x: -44.67108, y: -39.85234}
+        - {x: 47.32892, y: -39.85234}
+        - {x: 47.32892, y: 41.14766}
+    - name: Level_11
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 490
+        width: 261
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.844177, y: 41.14766}
+        - {x: -45.844177, y: 40.14766}
+        - {x: -45.844177, y: -38.85234}
+        - {x: -44.844177, y: -39.85234}
+        - {x: 47.155823, y: -39.85234}
+        - {x: 47.155823, y: 41.14766}
+    - name: Level_12
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 490
+        width: 261
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.722046, y: 41.14766}
+        - {x: -45.722046, y: 40.14766}
+        - {x: -45.722046, y: -38.85234}
+        - {x: -44.722046, y: -39.85234}
+        - {x: 47.277954, y: -39.85234}
+        - {x: 47.277954, y: 41.14766}
+    - name: Level_13
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 492
+        width: 261
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.838135, y: 40.85234}
+        - {x: -45.838135, y: 39.85234}
+        - {x: -45.838135, y: -39.14766}
+        - {x: -44.838135, y: -40.14766}
+        - {x: 47.161865, y: -40.14766}
+        - {x: 47.161865, y: 40.85234}
+    - name: Level_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 186
+        width: 1027
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -153.97658, y: 35.535645}
+        - {x: -147.97658, y: 9.535645}
+        - {x: -144.97658, y: 6.5356445}
+        - {x: -180.97658, y: -8.464355}
+        - {x: -180.97658, y: -34.464355}
+        - {x: 182.02342, y: -34.464355}
+        - {x: 182.02342, y: -0.46435547}
+        - {x: 162.02342, y: 35.535645}
+    - name: Level_15
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 163
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Level_16
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 160
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Level_17
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 106
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Level_18
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 106
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Level_19
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 106
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Level_20
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 7
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Level_21
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 7
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Level_22
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 7
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

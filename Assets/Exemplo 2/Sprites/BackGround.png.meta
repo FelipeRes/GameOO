@@ -1,0 +1,1353 @@
+fileFormatVersion: 2
+guid: d0e2943f328fe21428061f77efaf9651
+timeCreated: 1463027306
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BackGround_0
+    21300002: BackGround_1
+    21300004: BackGround_2
+    21300006: BackGround_3
+    21300008: BackGround_4
+    21300010: BackGround_5
+    21300012: BackGround_6
+    21300014: BackGround_7
+    21300016: BackGround_8
+    21300018: BackGround_9
+    21300020: BackGround_10
+    21300022: BackGround_11
+    21300024: BackGround_12
+    21300026: BackGround_13
+    21300028: BackGround_14
+    21300030: BackGround_15
+    21300032: BackGround_16
+    21300034: BackGround_17
+    21300036: BackGround_18
+    21300038: BackGround_19
+    21300040: BackGround_20
+    21300042: BackGround_21
+    21300044: BackGround_22
+    21300046: BackGround_23
+    21300048: BackGround_24
+    21300050: BackGround_25
+    21300052: BackGround_26
+    21300054: BackGround_27
+    21300056: BackGround_28
+    21300058: BackGround_29
+    21300060: BackGround_30
+    21300062: BackGround_31
+    21300064: BackGround_32
+    21300066: BackGround_33
+    21300068: BackGround_34
+    21300070: BackGround_35
+    21300072: BackGround_36
+    21300074: BackGround_37
+    21300076: BackGround_38
+    21300078: BackGround_39
+    21300080: BackGround_40
+    21300082: BackGround_41
+    21300084: BackGround_42
+    21300086: BackGround_43
+    21300088: BackGround_44
+    21300090: BackGround_45
+    21300092: BackGround_46
+    21300094: BackGround_47
+    21300096: BackGround_48
+    21300098: BackGround_49
+    21300100: BackGround_50
+    21300102: BackGround_51
+    21300104: BackGround_52
+    21300106: BackGround_53
+    21300108: BackGround_54
+    21300110: BackGround_55
+    21300112: BackGround_56
+    21300114: BackGround_57
+    21300116: BackGround_58
+    21300118: BackGround_59
+    21300120: BackGround_60
+    21300122: BackGround_61
+    21300124: BackGround_62
+    21300126: BackGround_63
+    21300128: BackGround_64
+    21300130: BackGround_65
+    21300132: BackGround_66
+    21300134: BackGround_67
+    21300136: BackGround_68
+    21300138: BackGround_69
+    21300140: BackGround_70
+    21300142: BackGround_71
+    21300144: BackGround_72
+    21300146: BackGround_73
+    21300148: BackGround_74
+    21300150: BackGround_75
+    21300152: BackGround_76
+    21300154: BackGround_77
+    21300156: BackGround_78
+    21300158: BackGround_79
+    21300160: BackGround_80
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BackGround_0
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 3830
+        width: 258
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.844284, y: 57.479736}
+        - {x: -63.844284, y: -56.520264}
+        - {x: 65.155716, y: -56.520264}
+        - {x: 65.155716, y: 57.479736}
+    - name: BackGround_1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3830
+        width: 517
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 57.479736}
+        - {x: -128.03964, y: -56.520264}
+        - {x: 128.96036, y: -56.520264}
+        - {x: 128.96036, y: 57.479736}
+    - name: BackGround_2
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 3838
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.200195, y: 56.94104}
+        - {x: -64.200195, y: -56.05896}
+        - {x: 64.799805, y: -56.05896}
+        - {x: 64.799805, y: 56.94104}
+    - name: BackGround_3
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 3838
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.14215, y: 56.94104}
+        - {x: -64.14215, y: -56.05896}
+        - {x: 64.85785, y: -56.05896}
+        - {x: 64.85785, y: 56.94104}
+    - name: BackGround_4
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 3832
+        width: 515
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 57.470093}
+        - {x: -127.506714, y: -56.529907}
+        - {x: 128.49329, y: -56.529907}
+        - {x: 128.49329, y: 57.470093}
+    - name: BackGround_5
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 3751
+        width: 259
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.09766, y: 57.361694}
+        - {x: -64.09766, y: -56.638306}
+        - {x: 64.90234, y: -56.638306}
+        - {x: 64.90234, y: 57.361694}
+    - name: BackGround_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 3585
+        width: 260
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.344284, y: 56.66443}
+        - {x: -64.344284, y: -56.33557}
+        - {x: 65.655716, y: -56.33557}
+        - {x: 65.655716, y: 56.66443}
+    - name: BackGround_7
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3583
+        width: 517
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 56.674072}
+        - {x: -128.03964, y: -56.325928}
+        - {x: 128.96036, y: -56.325928}
+        - {x: 128.96036, y: 56.674072}
+    - name: BackGround_8
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 3593
+        width: 259
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.200195, y: 56.625732}
+        - {x: -64.200195, y: -56.374268}
+        - {x: 64.799805, y: -56.374268}
+        - {x: 64.799805, y: 56.625732}
+    - name: BackGround_9
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 3593
+        width: 259
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.14215, y: 56.125732}
+        - {x: -64.14215, y: -55.874268}
+        - {x: 64.85785, y: -55.874268}
+        - {x: 64.85785, y: 56.125732}
+    - name: BackGround_10
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 3585
+        width: 515
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 56.66443}
+        - {x: -127.506714, y: -56.33557}
+        - {x: 128.49329, y: -56.33557}
+        - {x: 128.49329, y: 56.66443}
+    - name: BackGround_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 3339
+        width: 260
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.344284, y: 57.354004}
+        - {x: -64.344284, y: -56.645996}
+        - {x: 65.655716, y: -56.645996}
+        - {x: 65.655716, y: 57.354004}
+    - name: BackGround_12
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3333
+        width: 517
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 57.383057}
+        - {x: -128.03964, y: -56.616943}
+        - {x: 128.96036, y: -56.616943}
+        - {x: 128.96036, y: 57.383057}
+    - name: BackGround_13
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 3343
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.200195, y: 56.834717}
+        - {x: -64.200195, y: -56.165283}
+        - {x: 64.799805, y: -56.165283}
+        - {x: 64.799805, y: 56.834717}
+    - name: BackGround_14
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 3347
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.14215, y: 56.815308}
+        - {x: -64.14215, y: -56.184692}
+        - {x: 64.85785, y: -56.184692}
+        - {x: 64.85785, y: 56.815308}
+    - name: BackGround_15
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 3335
+        width: 515
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 57.373413}
+        - {x: -127.506714, y: -56.626587}
+        - {x: 128.49329, y: -56.626587}
+        - {x: 128.49329, y: 57.373413}
+    - name: BackGround_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 3091
+        width: 260
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.35396, y: 57.053223}
+        - {x: -64.35396, y: -55.946777}
+        - {x: 65.64604, y: -55.946777}
+        - {x: 65.64604, y: 57.053223}
+    - name: BackGround_17
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3085
+        width: 517
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 57.582275}
+        - {x: -128.03964, y: -56.417725}
+        - {x: 128.96036, y: -56.417725}
+        - {x: 128.96036, y: 57.582275}
+    - name: BackGround_18
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 3097
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.200195, y: 57.02417}
+        - {x: -64.200195, y: -55.97583}
+        - {x: 64.799805, y: -55.97583}
+        - {x: 64.799805, y: 57.02417}
+    - name: BackGround_19
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 3097
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.151794, y: 57.02417}
+        - {x: -64.151794, y: -55.97583}
+        - {x: 64.848206, y: -55.97583}
+        - {x: 64.848206, y: 57.02417}
+    - name: BackGround_20
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 3087
+        width: 515
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 57.57263}
+        - {x: -127.506714, y: -56.42737}
+        - {x: 128.49329, y: -56.42737}
+        - {x: 128.49329, y: 57.57263}
+    - name: BackGround_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2840
+        width: 260
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.35396, y: 56.766968}
+        - {x: -64.35396, y: -56.233032}
+        - {x: 65.64604, y: -56.233032}
+        - {x: 65.64604, y: 56.766968}
+    - name: BackGround_22
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2838
+        width: 517
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 57.27661}
+        - {x: -128.03964, y: -56.72339}
+        - {x: 128.96036, y: -56.72339}
+        - {x: 128.96036, y: 57.27661}
+    - name: BackGround_23
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2848
+        width: 259
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.20984, y: 57.22827}
+        - {x: -64.20984, y: -56.77173}
+        - {x: 64.79016, y: -56.77173}
+        - {x: 64.79016, y: 57.22827}
+    - name: BackGround_24
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 2846
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.151794, y: 56.737915}
+        - {x: -64.151794, y: -56.262085}
+        - {x: 64.848206, y: -56.262085}
+        - {x: 64.848206, y: 56.737915}
+    - name: BackGround_25
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 2840
+        width: 515
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 57.266968}
+        - {x: -127.506714, y: -56.733032}
+        - {x: 128.49329, y: -56.733032}
+        - {x: 128.49329, y: 57.266968}
+    - name: BackGround_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2592
+        width: 260
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.35396, y: 57.466187}
+        - {x: -64.35396, y: -56.533813}
+        - {x: 65.64604, y: -56.533813}
+        - {x: 65.64604, y: 57.466187}
+    - name: BackGround_27
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2588
+        width: 517
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 57.485474}
+        - {x: -128.03964, y: -56.514526}
+        - {x: 128.96036, y: -56.514526}
+        - {x: 128.96036, y: 57.485474}
+    - name: BackGround_28
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 2598
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.200195, y: 56.937134}
+        - {x: -64.200195, y: -56.062866}
+        - {x: 64.799805, y: -56.062866}
+        - {x: 64.799805, y: 56.937134}
+    - name: BackGround_29
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 2600
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.151794, y: 56.92749}
+        - {x: -64.151794, y: -56.07251}
+        - {x: 64.848206, y: -56.07251}
+        - {x: 64.848206, y: 56.92749}
+    - name: BackGround_30
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 2590
+        width: 515
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 57.47583}
+        - {x: -127.506714, y: -56.52417}
+        - {x: 128.49329, y: -56.52417}
+        - {x: 128.49329, y: 57.47583}
+    - name: BackGround_31
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2347
+        width: 258
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.863632, y: 56.65088}
+        - {x: -63.863632, y: -56.34912}
+        - {x: 65.13637, y: -56.34912}
+        - {x: 65.13637, y: 56.65088}
+    - name: BackGround_32
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2343
+        width: 517
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 56.670288}
+        - {x: -128.03964, y: -56.329712}
+        - {x: 128.96036, y: -56.329712}
+        - {x: 128.96036, y: 56.670288}
+    - name: BackGround_33
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 2352
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.200195, y: 57.12671}
+        - {x: -64.200195, y: -55.87329}
+        - {x: 64.799805, y: -55.87329}
+        - {x: 64.799805, y: 57.12671}
+    - name: BackGround_34
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2354
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.1615, y: 57.117065}
+        - {x: -64.1615, y: -55.882935}
+        - {x: 64.8385, y: -55.882935}
+        - {x: 64.8385, y: 57.117065}
+    - name: BackGround_35
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 2345
+        width: 515
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 56.660522}
+        - {x: -127.506714, y: -56.339478}
+        - {x: 128.49329, y: -56.339478}
+        - {x: 128.49329, y: 56.660522}
+    - name: BackGround_36
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2093
+        width: 258
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.873306, y: 57.37915}
+        - {x: -63.873306, y: -56.62085}
+        - {x: 65.12669, y: -56.62085}
+        - {x: 65.12669, y: 57.37915}
+    - name: BackGround_37
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2093
+        width: 517
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 57.37915}
+        - {x: -128.03964, y: -56.62085}
+        - {x: 128.96036, y: -56.62085}
+        - {x: 128.96036, y: 57.37915}
+    - name: BackGround_38
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2105
+        width: 259
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.20984, y: 57.321167}
+        - {x: -64.20984, y: -56.678833}
+        - {x: 64.79016, y: -56.678833}
+        - {x: 64.79016, y: 57.321167}
+    - name: BackGround_39
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2101
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.17114, y: 56.840454}
+        - {x: -64.17114, y: -56.159546}
+        - {x: 64.82886, y: -56.159546}
+        - {x: 64.82886, y: 56.840454}
+    - name: BackGround_40
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 2095
+        width: 515
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 57.369507}
+        - {x: -127.506714, y: -56.630493}
+        - {x: 128.49329, y: -56.630493}
+        - {x: 128.49329, y: 57.369507}
+    - name: BackGround_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1839
+        width: 258
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.873306, y: 57.10736}
+        - {x: -63.873306, y: -55.89264}
+        - {x: 65.12669, y: -55.89264}
+        - {x: 65.12669, y: 57.10736}
+    - name: BackGround_42
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1845
+        width: 517
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 57.57837}
+        - {x: -128.03964, y: -56.42163}
+        - {x: 128.96036, y: -56.42163}
+        - {x: 128.96036, y: 57.57837}
+    - name: BackGround_43
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1859
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.20984, y: 57.01068}
+        - {x: -64.20984, y: -55.98932}
+        - {x: 64.79016, y: -55.98932}
+        - {x: 64.79016, y: 57.01068}
+    - name: BackGround_44
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1845
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.17114, y: 57.07837}
+        - {x: -64.17114, y: -55.92163}
+        - {x: 64.82886, y: -55.92163}
+        - {x: 64.82886, y: 57.07837}
+    - name: BackGround_45
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1847
+        width: 515
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 57.568665}
+        - {x: -127.506714, y: -56.431335}
+        - {x: 128.49329, y: -56.431335}
+        - {x: 128.49329, y: 57.568665}
+    - name: BackGround_46
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1592
+        width: 258
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.873306, y: 57.301758}
+        - {x: -63.873306, y: -56.698242}
+        - {x: 65.12669, y: -56.698242}
+        - {x: 65.12669, y: 57.301758}
+    - name: BackGround_47
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1600
+        width: 517
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 56.76306}
+        - {x: -128.03964, y: -56.23694}
+        - {x: 128.96036, y: -56.23694}
+        - {x: 128.96036, y: 56.76306}
+    - name: BackGround_48
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1612
+        width: 259
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.20984, y: 56.70508}
+        - {x: -64.20984, y: -56.29492}
+        - {x: 64.79016, y: -56.29492}
+        - {x: 64.79016, y: 56.70508}
+    - name: BackGround_49
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1600
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.17114, y: 56.76306}
+        - {x: -64.17114, y: -56.23694}
+        - {x: 64.82886, y: -56.23694}
+        - {x: 64.82886, y: 56.76306}
+    - name: BackGround_50
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1602
+        width: 515
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 56.753418}
+        - {x: -127.506714, y: -56.246582}
+        - {x: 128.49329, y: -56.246582}
+        - {x: 128.49329, y: 56.753418}
+    - name: BackGround_51
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1344
+        width: 258
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.873306, y: 57.500977}
+        - {x: -63.873306, y: -56.499023}
+        - {x: 65.12669, y: -56.499023}
+        - {x: 65.12669, y: 57.500977}
+    - name: BackGround_52
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1358
+        width: 517
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 56.93329}
+        - {x: -128.03964, y: -56.06671}
+        - {x: 128.96036, y: -56.06671}
+        - {x: 128.96036, y: 56.93329}
+    - name: BackGround_53
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1364
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.20984, y: 56.904297}
+        - {x: -64.20984, y: -56.095703}
+        - {x: 64.79016, y: -56.095703}
+        - {x: 64.79016, y: 56.904297}
+    - name: BackGround_54
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1352
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.17114, y: 56.96228}
+        - {x: -64.17114, y: -56.03772}
+        - {x: 64.82886, y: -56.03772}
+        - {x: 64.82886, y: 56.96228}
+    - name: BackGround_55
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1360
+        width: 515
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 56.923645}
+        - {x: -127.506714, y: -56.076355}
+        - {x: 128.49329, y: -56.076355}
+        - {x: 128.49329, y: 56.923645}
+    - name: BackGround_56
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1093
+        width: 256
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.38298, y: 56.71472}
+        - {x: -63.38298, y: -56.28528}
+        - {x: 64.61702, y: -56.28528}
+        - {x: 64.61702, y: 56.71472}
+    - name: BackGround_57
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1114
+        width: 517
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 57.11316}
+        - {x: -128.03964, y: -55.88684}
+        - {x: 128.96036, y: -55.88684}
+        - {x: 128.96036, y: 57.11316}
+    - name: BackGround_58
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1116
+        width: 259
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.20984, y: 57.603516}
+        - {x: -64.20984, y: -56.396484}
+        - {x: 64.79016, y: -56.396484}
+        - {x: 64.79016, y: 57.603516}
+    - name: BackGround_59
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1100
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.18085, y: 57.180847}
+        - {x: -64.18085, y: -55.819153}
+        - {x: 64.81915, y: -55.819153}
+        - {x: 64.81915, y: 57.180847}
+    - name: BackGround_60
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1116
+        width: 515
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 57.103516}
+        - {x: -127.506714, y: -55.896484}
+        - {x: 128.49329, y: -55.896484}
+        - {x: 128.49329, y: 57.103516}
+    - name: BackGround_61
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 841
+        width: 256
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.38298, y: 56.93329}
+        - {x: -63.38298, y: -56.06671}
+        - {x: 64.61702, y: -56.06671}
+        - {x: 64.61702, y: 56.93329}
+    - name: BackGround_62
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 869
+        width: 517
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 56.797882}
+        - {x: -128.03964, y: -56.202118}
+        - {x: 128.96036, y: -56.202118}
+        - {x: 128.96036, y: 56.797882}
+    - name: BackGround_63
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 871
+        width: 259
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.20984, y: 56.788208}
+        - {x: -64.20984, y: -56.211792}
+        - {x: 64.79016, y: -56.211792}
+        - {x: 64.79016, y: 56.788208}
+    - name: BackGround_64
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 847
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.18085, y: 56.904266}
+        - {x: -64.18085, y: -56.095734}
+        - {x: 64.81915, y: -56.095734}
+        - {x: 64.81915, y: 56.904266}
+    - name: BackGround_65
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 871
+        width: 515
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 56.788208}
+        - {x: -127.506714, y: -56.211792}
+        - {x: 128.49329, y: -56.211792}
+        - {x: 128.49329, y: 56.788208}
+    - name: BackGround_66
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 587
+        width: 256
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.38298, y: 57.66153}
+        - {x: -63.38298, y: -56.33847}
+        - {x: 64.61702, y: -56.33847}
+        - {x: 64.61702, y: 57.66153}
+    - name: BackGround_67
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 627
+        width: 517
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 56.96811}
+        - {x: -128.03964, y: -56.03189}
+        - {x: 128.96036, y: -56.03189}
+        - {x: 128.96036, y: 56.96811}
+    - name: BackGround_68
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 625
+        width: 259
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.20984, y: 57.477753}
+        - {x: -64.20984, y: -56.522247}
+        - {x: 64.79016, y: -56.522247}
+        - {x: 64.79016, y: 57.477753}
+    - name: BackGround_69
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 595
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.18085, y: 57.122833}
+        - {x: -64.18085, y: -55.877167}
+        - {x: 64.81915, y: -55.877167}
+        - {x: 64.81915, y: 57.122833}
+    - name: BackGround_70
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 629
+        width: 515
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 56.958435}
+        - {x: -127.506714, y: -56.041565}
+        - {x: 128.49329, y: -56.041565}
+        - {x: 128.49329, y: 56.958435}
+    - name: BackGround_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 334
+        width: 254
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.89264, y: 56.88492}
+        - {x: -62.89264, y: -56.11508}
+        - {x: 64.10736, y: -56.11508}
+        - {x: 64.10736, y: 56.88492}
+    - name: BackGround_72
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 381
+        width: 517
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 57.15764}
+        - {x: -128.03964, y: -55.84236}
+        - {x: 128.96036, y: -55.84236}
+        - {x: 128.96036, y: 57.15764}
+    - name: BackGround_73
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 385
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.20984, y: 57.138306}
+        - {x: -64.20984, y: -55.861694}
+        - {x: 64.79016, y: -55.861694}
+        - {x: 64.79016, y: 57.138306}
+    - name: BackGround_74
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 340
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.19049, y: 56.85591}
+        - {x: -64.19049, y: -56.14409}
+        - {x: 64.80951, y: -56.14409}
+        - {x: 64.80951, y: 56.85591}
+    - name: BackGround_75
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 383
+        width: 515
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 57.14798}
+        - {x: -127.506714, y: -55.85202}
+        - {x: 128.49329, y: -55.85202}
+        - {x: 128.49329, y: 57.14798}
+    - name: BackGround_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 84
+        width: 254
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.89264, y: 57.09381}
+        - {x: -62.89264, y: -55.90619}
+        - {x: 64.10736, y: -55.90619}
+        - {x: 64.10736, y: 57.09381}
+    - name: BackGround_77
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 132
+        width: 517
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.03964, y: 56.861702}
+        - {x: -128.03964, y: -56.138298}
+        - {x: 128.96036, y: -56.138298}
+        - {x: 128.96036, y: 56.861702}
+    - name: BackGround_78
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 136
+        width: 259
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.20984, y: 57.34236}
+        - {x: -64.20984, y: -56.65764}
+        - {x: 64.79016, y: -56.65764}
+        - {x: 64.79016, y: 57.34236}
+    - name: BackGround_79
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 90
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.19049, y: 57.064796}
+        - {x: -64.19049, y: -55.935204}
+        - {x: 64.80951, y: -55.935204}
+        - {x: 64.80951, y: 57.064796}
+    - name: BackGround_80
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 134
+        width: 515
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.506714, y: 56.852036}
+        - {x: -127.506714, y: -56.147964}
+        - {x: 128.49329, y: -56.147964}
+        - {x: 128.49329, y: 56.852036}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

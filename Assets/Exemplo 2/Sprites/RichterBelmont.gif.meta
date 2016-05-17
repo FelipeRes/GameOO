@@ -1,0 +1,1567 @@
+fileFormatVersion: 2
+guid: 430ad1f41241ecd4597a5ba4757c2f51
+timeCreated: 1463026808
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RichterBelmont_0
+    21300002: RichterBelmont_1
+    21300004: RichterBelmont_2
+    21300006: RichterBelmont_3
+    21300008: RichterBelmont_4
+    21300010: RichterBelmont_5
+    21300012: RichterBelmont_6
+    21300014: RichterBelmont_7
+    21300016: RichterBelmont_8
+    21300018: RichterBelmont_9
+    21300020: RichterBelmont_10
+    21300022: RichterBelmont_11
+    21300024: RichterBelmont_12
+    21300026: RichterBelmont_13
+    21300028: RichterBelmont_14
+    21300030: RichterBelmont_15
+    21300032: RichterBelmont_16
+    21300034: RichterBelmont_17
+    21300036: RichterBelmont_18
+    21300038: RichterBelmont_19
+    21300040: RichterBelmont_20
+    21300042: RichterBelmont_21
+    21300044: RichterBelmont_22
+    21300046: RichterBelmont_23
+    21300048: RichterBelmont_24
+    21300050: RichterBelmont_25
+    21300052: RichterBelmont_26
+    21300054: RichterBelmont_27
+    21300056: RichterBelmont_28
+    21300058: RichterBelmont_29
+    21300060: RichterBelmont_30
+    21300062: RichterBelmont_31
+    21300064: RichterBelmont_32
+    21300066: RichterBelmont_33
+    21300068: RichterBelmont_34
+    21300070: RichterBelmont_35
+    21300072: RichterBelmont_36
+    21300074: RichterBelmont_37
+    21300076: RichterBelmont_38
+    21300078: RichterBelmont_39
+    21300080: RichterBelmont_40
+    21300082: RichterBelmont_41
+    21300084: RichterBelmont_42
+    21300086: RichterBelmont_43
+    21300088: RichterBelmont_44
+    21300090: RichterBelmont_45
+    21300092: RichterBelmont_46
+    21300094: RichterBelmont_47
+    21300096: RichterBelmont_48
+    21300098: RichterBelmont_49
+    21300100: RichterBelmont_50
+    21300102: RichterBelmont_51
+    21300104: RichterBelmont_52
+    21300106: RichterBelmont_53
+    21300108: RichterBelmont_54
+    21300110: RichterBelmont_55
+    21300112: RichterBelmont_56
+    21300114: RichterBelmont_57
+    21300116: RichterBelmont_58
+    21300118: RichterBelmont_59
+    21300120: RichterBelmont_60
+    21300122: RichterBelmont_61
+    21300124: RichterBelmont_62
+    21300126: RichterBelmont_63
+    21300128: RichterBelmont_64
+    21300130: RichterBelmont_65
+    21300132: RichterBelmont_66
+    21300134: RichterBelmont_67
+    21300136: RichterBelmont_68
+    21300138: RichterBelmont_69
+    21300140: RichterBelmont_70
+    21300142: RichterBelmont_71
+    21300144: RichterBelmont_72
+    21300146: RichterBelmont_73
+    21300148: RichterBelmont_74
+    21300150: RichterBelmont_75
+    21300152: RichterBelmont_76
+    21300154: RichterBelmont_77
+    21300156: RichterBelmont_78
+    21300158: RichterBelmont_79
+    21300160: RichterBelmont_80
+    21300162: RichterBelmont_81
+    21300164: RichterBelmont_82
+    21300166: RichterBelmont_83
+    21300168: RichterBelmont_84
+    21300170: RichterBelmont_85
+    21300172: RichterBelmont_86
+    21300174: RichterBelmont_87
+    21300176: RichterBelmont_88
+    21300178: RichterBelmont_89
+    21300180: RichterBelmont_90
+    21300182: RichterBelmont_91
+    21300184: RichterBelmont_92
+    21300186: RichterBelmont_93
+    21300188: RichterBelmont_94
+    21300190: RichterBelmont_95
+    21300192: RichterBelmont_96
+    21300194: RichterBelmont_97
+    21300196: RichterBelmont_98
+    21300198: RichterBelmont_99
+    21300200: RichterBelmont_100
+    21300202: RichterBelmont_101
+    21300204: RichterBelmont_102
+    21300206: RichterBelmont_103
+    21300208: RichterBelmont_104
+    21300210: RichterBelmont_105
+    21300212: RichterBelmont_106
+    21300214: RichterBelmont_107
+    21300216: RichterBelmont_108
+    21300218: RichterBelmont_109
+    21300220: RichterBelmont_110
+    21300222: RichterBelmont_111
+    21300224: RichterBelmont_112
+    21300226: RichterBelmont_113
+    21300228: RichterBelmont_114
+    21300230: RichterBelmont_115
+    21300232: RichterBelmont_116
+    21300234: RichterBelmont_117
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RichterBelmont_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 339
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 339
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 339
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 339
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 338
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 338
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 340
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 339
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 339
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 340
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_10
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 342
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 336
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_12
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 336
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 289
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 289
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 290
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 290
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 288
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 291
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 297
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 294
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 290
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_22
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 287
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 278
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_24
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 276
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_25
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 274
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 237
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 239
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -10.5}
+        - {x: -7, y: -18.5}
+        - {x: -7, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: 15.5}
+        - {x: 13, y: 21.5}
+        - {x: -7, y: 21.5}
+        - {x: -16, y: 6.5}
+        - {x: -16, y: -21.5}
+        - {x: -8, y: -21.5}
+        - {x: -7, y: -20.5}
+        - {x: -7, y: -15.5}
+        - {x: -8, y: -11.5}
+    - name: RichterBelmont_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 239
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 15}
+        - {x: 15.5, y: 22}
+        - {x: -0.5, y: 22}
+        - {x: -4.5, y: 21}
+        - {x: -21.5, y: -1}
+        - {x: -21.5, y: -19}
+        - {x: -17.5, y: -22}
+        - {x: -6.5, y: -22}
+        - {x: -5.5, y: -19}
+        - {x: -5.5, y: -22}
+        - {x: 21.5, y: -22}
+    - name: RichterBelmont_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 239
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 21.5}
+        - {x: 6, y: 21.5}
+        - {x: 4, y: 17.5}
+        - {x: 5, y: 17.5}
+        - {x: 4, y: 18.5}
+        - {x: 5, y: 19.5}
+        - {x: 5, y: 21.5}
+        - {x: -14, y: 21.5}
+        - {x: -22, y: 12.5}
+        - {x: -22, y: -3.5}
+        - {x: -13, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 22, y: 12.5}
+        - {x: 16, y: 20.5}
+    - name: RichterBelmont_30
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 240
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 22}
+        - {x: -20.5, y: -22}
+        - {x: 20.5, y: -22}
+        - {x: 20.5, y: 22}
+    - name: RichterBelmont_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20}
+        - {x: -20, y: 14}
+        - {x: -20, y: -20}
+        - {x: 12, y: -20}
+        - {x: 20, y: -12}
+        - {x: 20, y: 20}
+    - name: RichterBelmont_32
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 240
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 20}
+        - {x: -33, y: 14}
+        - {x: -33, y: -20}
+        - {x: 6, y: -20}
+        - {x: 33, y: -10}
+        - {x: 33, y: 15}
+        - {x: 1, y: 20}
+    - name: RichterBelmont_33
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 238
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 20}
+        - {x: -39, y: 10}
+        - {x: -37, y: 2}
+        - {x: -41, y: -4}
+        - {x: -41, y: -20}
+        - {x: 15, y: -20}
+        - {x: 41, y: -14}
+        - {x: 41, y: 15}
+        - {x: 5, y: 20}
+    - name: RichterBelmont_34
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 225
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_35
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 230
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_36
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 233
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 187
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 22.5}
+        - {x: 0.5, y: 22.5}
+        - {x: -16.5, y: 5.5}
+        - {x: -16.5, y: -22.5}
+        - {x: -6.5, y: -22.5}
+        - {x: 16.5, y: -12.5}
+        - {x: 16.5, y: 17.5}
+    - name: RichterBelmont_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 188
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 22}
+        - {x: 1, y: 22}
+        - {x: -21, y: -1}
+        - {x: -21, y: -21}
+        - {x: -19, y: -22}
+        - {x: 18, y: -22}
+        - {x: 21, y: -16}
+        - {x: 21, y: 19}
+    - name: RichterBelmont_39
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 202
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_40
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 200
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 16.5}
+        - {x: -19.5, y: 10.5}
+        - {x: -19.5, y: 1.5}
+        - {x: -18.5, y: 1.5}
+        - {x: -16.5, y: -8.5}
+        - {x: -11.5, y: -16.5}
+        - {x: 15.5, y: -16.5}
+        - {x: 19.5, y: -1.5}
+        - {x: 19.5, y: 16.5}
+    - name: RichterBelmont_41
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 200
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 199
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_43
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 199
+        width: 80
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 129
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_45
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 130
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_46
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 131
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_47
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 131
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -17, y: 12}
+        - {x: -17, y: -20}
+        - {x: 16, y: -20}
+        - {x: 17, y: -19}
+        - {x: 17, y: 20}
+    - name: RichterBelmont_48
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 132
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 133
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_50
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 132
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_51
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 133
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_52
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 143
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_53
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 142
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_54
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 139
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 74
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_56
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 72
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_57
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 74
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_58
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 74
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_59
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 74
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_60
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 75
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_61
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 76
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_62
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 77
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_63
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 78
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_64
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 79
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_65
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 79
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_66
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 117
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_67
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 117
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_68
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 117
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_69
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 117
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_70
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 117
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_71
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 117
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_72
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 117
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_73
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 117
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_74
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 117
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_75
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 117
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_76
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 71
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_77
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 105
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_78
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 105
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_79
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 105
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_80
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_81
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 105
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_82
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_83
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 105
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_84
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 105
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_85
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_86
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_87
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_88
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 103
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_89
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 81
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_90
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 79
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_91
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 79
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_92
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 81
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_93
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 81
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_94
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 79
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_95
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 81
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_96
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 80
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_97
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 81
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_98
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 79
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_99
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 81
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_100
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 69
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_101
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 69
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_102
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 69
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_103
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 69
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_104
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 69
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_105
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 69
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_106
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_107
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 11
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_108
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 10
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 9
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_110
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 11
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 10
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_112
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 10
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_113
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 10
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_114
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 10
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_115
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 9
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_116
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 10
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RichterBelmont_117
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 9
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

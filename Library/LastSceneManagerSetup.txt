@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Exemplo1/Contas.unity
+  isLoaded: 1
+  isActive: 1
