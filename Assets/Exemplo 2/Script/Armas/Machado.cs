@@ -4,15 +4,17 @@ using System.Collections;
 public class Machado : Arma {
 
 	virtual public int calculaDano(Inimigo inimigo){
-		return dano;
+		int d = dano;
+		if (inimigo.tipo == TipoInimigo.Demonio) {
+			d = dano /= 2;
+		}
+		return d;
 		// aqui retorna o dano da arma
 	}
-
 	public void OnTriggerEnter2D(Collider2D coll){
 		if (coll.gameObject.GetComponent<Inimigo> () != null) {
-			//int danoNoInimigo = 0;
-			//danoNoInimigo = dano - coll.gameObject.GetComponent<Inimigo> ().defesaFisica;
-			coll.gameObject.GetComponent<Inimigo> ().adicionarDano (dano);
+			int danoNoInimigo = calculaDano(coll.gameObject.GetComponent<Inimigo> ());
+			coll.gameObject.GetComponent<Inimigo> ().adicionarDano (danoNoInimigo);
 		}
 	}
 }

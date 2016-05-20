@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Espada : Arma {
+public class Arco : Arma {
 
 	override public int calculaDano(){
 		return dano;
