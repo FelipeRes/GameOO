@@ -1,9 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Espada : Arma {
+public class Flecha : Arma {
 
-	public Elemento elemnto;
+	public Elemento elemento;
+
+	void Start(){
+
+	}
 	override public int calculaDano(){
 		return dano;
 		// aqui retorna o dano da arma
@@ -13,13 +17,11 @@ public class Espada : Arma {
 		if (coll.gameObject.GetComponent<Inimigo> () != null) {
 			int danoNoInimigo = 0;
 			danoNoInimigo = dano - coll.gameObject.GetComponent<Inimigo> ().defesaFisica;
-			if (coll.gameObject.GetComponent<Inimigo> ().tipo == TipoInimigo.Zumbi) {
+			if(ProcessoDeElementos.elementoMaisForte(elemento,coll.gameObject.GetComponent<Inimigo> ().elemento)){
 				danoNoInimigo += danoNoInimigo;
-			}
-			if(ProcessoDeElementos.elementoMaisForte(elemnto,coll.gameObject.GetComponent<Inimigo> ().elemento)){
-				danoNoInimigo += danoNoInimigo / 100 * 20;
 			}
 			coll.gameObject.GetComponent<Inimigo> ().adicionarDano (danoNoInimigo);
 		}
+		Destroy (this.gameObject);
 	}
 }

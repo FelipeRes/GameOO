@@ -8,6 +8,7 @@ public class Arma : MonoBehaviour {
 	public float tamanho;
 	public string descricao;
 	public float tempo;
+	public Character character;
 
 	virtual public int calculaDano(){
 		return dano;

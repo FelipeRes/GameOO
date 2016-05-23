@@ -48,10 +48,12 @@
      <Compile Include="Assets\Exemplo 2\Script\Armas\Arco.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Armas\Arma.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Armas\Espada.cs" />
+     <Compile Include="Assets\Exemplo 2\Script\Armas\Flecha.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Armas\Machado.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Armas\Spear.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Character.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Creature.cs" />
+     <Compile Include="Assets\Exemplo 2\Script\Elemento.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Inimigo.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Player.cs" />
      <Compile Include="Assets\Exemplo 2\Script\PlayerMove.cs" />

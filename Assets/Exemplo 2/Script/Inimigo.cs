@@ -4,6 +4,7 @@ using System.Collections;
 public class Inimigo : Creature {
 
 	public TipoInimigo tipo;
+	public Elemento elemento;
 	// Use this for initialization
 	void Start () {
 	

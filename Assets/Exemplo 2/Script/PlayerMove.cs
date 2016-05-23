@@ -11,9 +11,10 @@ public class PlayerMove : MonoBehaviour {
 
 	private bool isGrounded;
 	private bool isWait;
+	public bool OnRight;
 
 	void Start () {
-	
+		character.arma.character = character;
 	}
 
 	void Update () {
@@ -38,10 +39,12 @@ public class PlayerMove : MonoBehaviour {
 				this.transform.Translate (new Vector2 (1 * Time.deltaTime * character.velocidade, 0));
 				this.transform.localScale = new Vector2 (1, 1);
 				anim.SetBool ("isRunning", true);
+				OnRight = true;
 			} else if (Input.GetAxis ("Horizontal") < 0) {
 				this.transform.Translate (new Vector2 (-1 * Time.deltaTime * character.velocidade, 0));
 				this.transform.localScale = new Vector2 (-1, 1);
 				anim.SetBool ("isRunning", true);
+				OnRight = false;
 			} else {
 				anim.SetBool ("isRunning", false);
 			}
@@ -56,7 +59,7 @@ public class PlayerMove : MonoBehaviour {
 
 	public void Atack(){
 		GameObject arma = Instantiate (character.armaObject, armaPosition.position, Quaternion.identity) as GameObject;
-		if (this.transform.localScale.x < 0) {
+		if (!OnRight) {
 			arma.transform.localScale = new Vector2 (-1, 1);
 		}
 		Destroy (arma, 0.3f);
