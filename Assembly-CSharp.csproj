@@ -55,16 +55,22 @@
      <Compile Include="Assets\Exemplo 2\Script\Creature.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Elemento.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Inimigo.cs" />
+     <Compile Include="Assets\Exemplo 2\Script\InimigoMain.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Player.cs" />
      <Compile Include="Assets\Exemplo 2\Script\PlayerMove.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Profissao.cs" />
      <Compile Include="Assets\Exemplo 2\Script\TipoInimigo.cs" />
+     <Compile Include="Assets\Exemplo 2\Script\UI\InventarioItem.cs" />
+     <Compile Include="Assets\Exemplo 2\Script\UI\InventarioPanel.cs" />
      <Compile Include="Assets\Exemplo1\Scripts\Conta.cs" />
      <Compile Include="Assets\Exemplo1\Scripts\ContaCorrente.cs" />
      <Compile Include="Assets\Exemplo1\Scripts\ContaPoupanca.cs" />
      <Compile Include="Assets\Exemplo1\Scripts\MatematicaFinanceira.cs" />
      <Compile Include="Assets\Exemplo1\Scripts\Pessoa.cs" />
      <Compile Include="Assets\Exemplo1\Scripts\TestaJogo.cs" />
+     <Compile Include="Assets\Exemplo3\Script\CadastroInterface.cs" />
+     <Compile Include="Assets\Exemplo3\Script\Cliente.cs" />
+     <Compile Include="Assets\Exemplo3\Script\Sexo.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

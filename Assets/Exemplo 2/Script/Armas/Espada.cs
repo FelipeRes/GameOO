@@ -8,7 +8,6 @@ public class Espada : Arma {
 		return dano;
 		// aqui retorna o dano da arma
 	}
-
 	public void OnTriggerEnter2D(Collider2D coll){
 		if (coll.gameObject.GetComponent<Inimigo> () != null) {
 			int danoNoInimigo = 0;
@@ -19,7 +18,7 @@ public class Espada : Arma {
 			if(ProcessoDeElementos.elementoMaisForte(elemnto,coll.gameObject.GetComponent<Inimigo> ().elemento)){
 				danoNoInimigo += danoNoInimigo / 100 * 20;
 			}
-			coll.gameObject.GetComponent<Inimigo> ().adicionarDano (danoNoInimigo);
+			coll.gameObject.GetComponent<InimigoMain> ().inimigo.AdicionarDano (danoNoInimigo);
 		}
 	}
 }

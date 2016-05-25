@@ -10,5 +10,15 @@ public class Character : Creature {
 	public GameObject flechaObject;
 	public int mana;
 	public int nivel;
+	public float vidaDoPlayer;
+
+	void Start(){
+		vidaDoPlayer = vida;
+	}
+
+	public void AdicionarDano( int dano){
+		Debug.Log (dano);
+		vidaDoPlayer -= dano;
+	}
 
 }

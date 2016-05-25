@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Creature : MonoBehaviour {
 
-	public int vida;
+	public float vida;
 	public int forcaFisica;
 	public int defesaFisica;
 	public int forcaMagica;

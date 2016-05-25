@@ -12,9 +12,9 @@ public class Machado : Arma {
 		// aqui retorna o dano da arma
 	}
 	public void OnTriggerEnter2D(Collider2D coll){
-		if (coll.gameObject.GetComponent<Inimigo> () != null) {
-			int danoNoInimigo = calculaDano(coll.gameObject.GetComponent<Inimigo> ());
-			coll.gameObject.GetComponent<Inimigo> ().adicionarDano (danoNoInimigo);
+		if (coll.gameObject.GetComponent<InimigoMain> () != null) {
+			int danoNoInimigo = calculaDano(coll.gameObject.GetComponent<InimigoMain> ().inimigo);
+			coll.gameObject.GetComponent<InimigoMain> ().inimigo.AdicionarDano (danoNoInimigo);
 		}
 	}
 }

@@ -14,13 +14,13 @@ public class Flecha : Arma {
 	}
 
 	public void OnTriggerEnter2D(Collider2D coll){
-		if (coll.gameObject.GetComponent<Inimigo> () != null) {
+		if (coll.gameObject.GetComponent<InimigoMain> () != null) {
 			int danoNoInimigo = 0;
-			danoNoInimigo = dano - coll.gameObject.GetComponent<Inimigo> ().defesaFisica;
+			danoNoInimigo = dano - coll.gameObject.GetComponent<InimigoMain> ().defesaFisica;
 			if(ProcessoDeElementos.elementoMaisForte(elemento,coll.gameObject.GetComponent<Inimigo> ().elemento)){
 				danoNoInimigo += danoNoInimigo;
 			}
-			coll.gameObject.GetComponent<Inimigo> ().adicionarDano (danoNoInimigo);
+			coll.gameObject.GetComponent<InimigoMain> ().inimigo.AdicionarDano (danoNoInimigo);
 		}
 		Destroy (this.gameObject);
 	}

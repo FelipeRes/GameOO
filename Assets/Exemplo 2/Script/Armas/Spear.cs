@@ -12,7 +12,7 @@ public class Spear : Arma {
 		if (coll.gameObject.GetComponent<Inimigo> () != null) {
 			int danoNoInimigo = 0;
 			danoNoInimigo = dano - coll.gameObject.GetComponent<Inimigo> ().defesaFisica;
-			coll.gameObject.GetComponent<Inimigo> ().adicionarDano (danoNoInimigo);
+			coll.gameObject.GetComponent<Inimigo> ().AdicionarDano (danoNoInimigo);
 		}
 	}
 }
