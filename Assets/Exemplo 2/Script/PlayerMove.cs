@@ -23,10 +23,10 @@ public class PlayerMove : MonoBehaviour {
 
 	void Update () {
 		razaoVida = character.vidaDoPlayer / character.vida;
-		Vector2 barra = new Vector2 ();
+		/*Vector2 barra = new Vector2 ();
 		barra.x = razaoVida;
 		barra.y = 1;
-		barraDeVida.anchorMax = barra;
+		barraDeVida.anchorMax = barra;*/
 		isGrounded = Physics2D.OverlapCircle (GroundCheck1.position, 0.15f, groundLayer);
 		if (isWait == false) {
 			if (isGrounded == true) {

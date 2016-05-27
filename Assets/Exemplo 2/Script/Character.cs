@@ -21,4 +21,10 @@ public class Character : Creature {
 		vidaDoPlayer -= dano;
 	}
 
+	public void MudarDeArma(GameObject armaObject){
+		this.armaObject = armaObject;
+		this.arma = armaObject.GetComponent<Arma> ();
+		this.arma.character = this;
+	}
+
 }

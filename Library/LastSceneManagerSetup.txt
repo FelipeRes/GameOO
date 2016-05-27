@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Exemplo1/Contas.unity
+- path: Assets/Exemplo1/CenaComMenu.unity
   isLoaded: 1
   isActive: 1

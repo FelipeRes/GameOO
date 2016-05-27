@@ -16,7 +16,7 @@ public class Flecha : Arma {
 	public void OnTriggerEnter2D(Collider2D coll){
 		if (coll.gameObject.GetComponent<InimigoMain> () != null) {
 			int danoNoInimigo = 0;
-			danoNoInimigo = dano - coll.gameObject.GetComponent<InimigoMain> ().defesaFisica;
+			danoNoInimigo = dano - coll.gameObject.GetComponent<InimigoMain> ().inimigo.defesaFisica;
 			if(ProcessoDeElementos.elementoMaisForte(elemento,coll.gameObject.GetComponent<Inimigo> ().elemento)){
 				danoNoInimigo += danoNoInimigo;
 			}

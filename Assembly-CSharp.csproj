@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Exemplo 2\Script\ArmaItem.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Armas\Arco.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Armas\Arma.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Armas\Espada.cs" />
@@ -56,6 +57,8 @@
      <Compile Include="Assets\Exemplo 2\Script\Elemento.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Inimigo.cs" />
      <Compile Include="Assets\Exemplo 2\Script\InimigoMain.cs" />
+     <Compile Include="Assets\Exemplo 2\Script\Interface.cs" />
+     <Compile Include="Assets\Exemplo 2\Script\MudaArma.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Player.cs" />
      <Compile Include="Assets\Exemplo 2\Script\PlayerMove.cs" />
      <Compile Include="Assets\Exemplo 2\Script\Profissao.cs" />
