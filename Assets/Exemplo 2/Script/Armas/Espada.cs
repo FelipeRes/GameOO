@@ -9,10 +9,12 @@ public class Espada : Arma {
 		// aqui retorna o dano da arma
 	}
 	public void OnTriggerEnter2D(Collider2D coll){
-		if (coll.gameObject.GetComponent<Inimigo> () != null) {
+		if (coll.gameObject.GetComponent<InimigoMain> () != null) {
+			GameObject particulaObject = Instantiate (particula, coll.gameObject.transform.position, Quaternion.identity) as GameObject;
+			Destroy (particulaObject, 1f);
 			int danoNoInimigo = 0;
-			danoNoInimigo = dano - coll.gameObject.GetComponent<Inimigo> ().defesaFisica;
-			if (coll.gameObject.GetComponent<Inimigo> ().tipo == TipoInimigo.Zumbi) {
+			danoNoInimigo = dano - coll.gameObject.GetComponent<InimigoMain> ().inimigo.defesaFisica;
+			if (coll.gameObject.GetComponent<InimigoMain> ().inimigo.tipo == TipoInimigo.Zumbi) {
 				danoNoInimigo += danoNoInimigo;
 			}
 			if(ProcessoDeElementos.elementoMaisForte(elemnto,coll.gameObject.GetComponent<Inimigo> ().elemento)){

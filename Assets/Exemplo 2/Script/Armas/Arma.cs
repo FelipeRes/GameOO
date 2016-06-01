@@ -11,6 +11,7 @@ public class Arma : MonoBehaviour {
 	public float tempo;
 	public Character character;
 	public Sprite imagem;
+	public GameObject particula;
 
 	virtual public int calculaDano(){
 		return dano;
